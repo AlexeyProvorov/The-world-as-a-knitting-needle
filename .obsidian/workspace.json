@@ -11,10 +11,14 @@
             "id": "3aadaf915351ba0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Бездомный пёс Нови Сада.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Бездомный пёс Нови Сада"
             }
           }
         ]
@@ -166,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa054f8f508c3c20",
+  "active": "3aadaf915351ba0a",
   "lastOpenFiles": [
-    "Bugs poem.md",
     "Многомировая интерпритация.md",
+    "Bugs poem.md",
     "Бездомный пёс Нови Сада.md",
     "The simulation.md",
     "The world.md",
