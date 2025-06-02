@@ -23,4 +23,9 @@ Caving, also known as spelunking, involves exploring subterranean landscapes and
 
 4. Hard words to write
 accommodation - размещение(в жилье)
-Address, Necessary, Occasion, Successful, Embarrass, Aggressive, Committee, Parallel, 
+Address, Necessary, Occasion, Successful, Embarrass, Aggressive, Committee, Parallel.
+
+additional:
+Despite, Nevertheless, Although, However, yet.
+Furthermore, moreover, as well, in addition, also.
+Meaning that, therefore, so.
