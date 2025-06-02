@@ -19,4 +19,4 @@ This can be seen in the photos I took, where we all look so peaceful. There wasn
 All things considered I'd say that's the most relaxed I've ever felt, and I'd love to come back to that village. I can't finish without mentioning how positive the holiday was for my mental health - I'm still feeling the benefits to this day. 
 
 3. Caving. Subterranean exploring.
-Caving, also known as spelunking, involves exploring subterranean landscapes and underground passages. Enthusiasts often venture into caves formed by water or volcanic activity to admire their activity to admire their unique rock formations like stalactites stalagmites. This activity requires 
+Caving, also known as spelunking, involves exploring subterranean landscapes and underground passages. Enthusiasts often venture into caves formed by water or volcanic activity to admire their activity to admire their unique rock formations like stalactites stalagmites. This activity requires resilience, perseverance and equipment to navigate safely. Caving not only allows participants to discover hidden wonders, but also promotes awareness of geological preservation. 
