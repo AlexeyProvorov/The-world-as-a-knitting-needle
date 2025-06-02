@@ -20,3 +20,5 @@ All things considered I'd say that's the most relaxed I've ever felt, and I'd lo
 
 3. Caving. Subterranean exploring.
 Caving, also known as spelunking, involves exploring subterranean landscapes and underground passages. Enthusiasts often venture into caves formed by water or volcanic activity to admire their activity to admire their unique rock formations like stalactites stalagmites. This activity requires resilience, perseverance and equipment to navigate safely. Caving not only allows participants to discover hidden wonders, but also promotes awareness of geological preservation. 
+
+
