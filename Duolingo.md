@@ -29,3 +29,7 @@ additional:
 Despite, Nevertheless, Although, However, yet.
 Furthermore, moreover, as well, in addition, also.
 Meaning that, therefore, so.
+
+1. Describing nature activities
+The whether was nice and warm with a gentle breeze, despite the fact that it was September in Serbia. The rolling hills were covered in lush green grass and wildflowers - it really was a lovely place. We spent the day engaged in outdoor pursuits such as exploring trails, crossing streams, and enjoying the stunning views from the picks. 
+What made it so enjoy was the combination of physical activity and tranquility. The peaceful surroundings allow me to disconnect from daily stresses, and spending time with my family made the experience more special even. We laughed, shared stories, and took plenty of photos 
