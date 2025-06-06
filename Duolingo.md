@@ -34,4 +34,5 @@ Meaning that, therefore, so.
 The whether was nice and warm with a gentle breeze, despite the fact that it was September in Serbia. The rolling hills were covered in lush green grass and wildflowers - it really was a lovely place. We spent the day engaged in outdoor pursuits such as exploring trails, crossing streams, and enjoying the stunning views from the picks. 
 What made it so enjoyable was the combination of physical activity and tranquility. The peaceful surroundings allowed me to disconnect from daily stresses, and spending time with my family made the experience even more special. We laughed, shared stories, and took plenty of photos along the way. What a wonderful day was it! 
 
-
+6. The John J. Mearshelmer's article review.
+Join Maershelmer is a American political scientist and best known for developing the theory of offensive realism, which describes relationships and interactions between great powers in the world as a struggle to achieve the regional hegemony. He, also, 
