@@ -44,5 +44,7 @@ By my opinion there is a essential gap that mislead all subsequent conclusions. 
 Also, I can claim that the perspective where we see at the government as it's separated entity, hidden a really harmful effect for humanity. And you know a lot of instances of this effect.
 When a person became the leader, society starts recognizing him as a real government, real power. Do you think that this idea innocent? If yes, I suggest you to think about what happens when the person believes that personally he is a government. 
 For the instance, Mr. John Mearshelmer said in the article that Europe has provoked Russia for the war against Ukraine. As a person who perfectly know Russia and its government, I am sure that the real problem is the point that one person have not only immeasurable power, but also he believes that he is a government. So, all his cognitive biases also became a government. 
-In short, despite of I partly agree with author, I see the significant flaw in his opinion and more I believe that to explore government without people behavior and psychology not only strange, becou
- 
+In short, despite the fact that I partially agree with the author, I see a significant flaw in his opinion, and moreover, I believe that studying government without taking into account the behavior and psychology of people is not only strange. because governments are consist of people, but also really harmful. 
+That's my honest review on the John J. Mearshelmer's article.
+
+7. Social media has a negative impact on mental health?
