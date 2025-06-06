@@ -54,4 +54,4 @@ At first, historically our life changed a lot thanks to the internet communicati
 On the other side the relationships inside social media as vast as it shallow, superficial. I mean that deep human's bonds difficult to achieve and also hard to keep and enhance because of the lack of the common experience from real life. 
 I remember reading a book a few months ago that focused on productivity in the digital age. One of the chapters really made me think about the subject. It suggested that social media hadn't just been distracting us from our tasks, but had actually been changing the way we process information and maintain focus. I found this idea quite striking because it's not about immediate distraction, but long-term cognitive shifts. 
 Nowadays, I'm trying not to use social media too frequently, nevertheless sometimes I find myself trapped in the snare of social media. 
-In conclu
+In conclusion I want to say that I don't consider social media to be eval. Social media brings people together all over the world and makes many aspects of our life easier. Nevertheless, we must be attentive what has such a significant impact on us. 
