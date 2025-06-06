@@ -41,4 +41,5 @@ At the very beginning  let's me define that I am not a politician and related wi
 So, let's I reveal my point of view about this article and especially about "offensive realism" because it's the central idea of the author. 
 Of course I am agree with several claims and ideas, many things makes sense here, but I absolutely disagree with the final conclusion and the main statement where we look at the government like at the separated entity who wants to struggle for the hegemony, without people's relationships. 
 By my opinion there is a essential gap that mislead all subsequent conclusions. The people psychology has a really huge effect on the government and society. Look about the Overton Window ideas - there are a lot of consequences about this social approval theory. 
-Also. I  claim that this perspective where we see at the government as it's separated entity
+Also. I can claim that the perspective where we see at the government as it's separated entity, hidden a really harmful effect for humanity. And you know a lot of instances of this effect.
+When a person became the leader, society starts recognizing him as a real government, real power. Do you think that this idea innocent? If yes, I suggest you to think about what happens when the person  believes that he is 
