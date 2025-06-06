@@ -37,3 +37,4 @@ What made it so enjoyable was the combination of physical activity and tranquili
 6. The John J. Mearshelmer's article review.
 Join Maershelmer is an American political scientist and best known for developing the theory of offensive realism, which describes relationships and interactions between great powers in the world as a struggle to achieve the regional hegemony. He, also, well known as an author of books at the political subject based on the foreign government's point of view. 
 After reading his short article dedicated to the American approach to aggressive democracy promotion, I've been left with something to think about. 
+At the very beginning  let's me define that I am not a politician and related with the subject only as a hobby. I like explore ways of developing myself and society as a whole, including political direction, but I've never been in USA, 
