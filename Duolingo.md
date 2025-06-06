@@ -49,4 +49,5 @@ That's my honest review on the John J. Mearshelmer's article.
 
 7. Social media has a negative impact on mental health?
 Social media has an enormous effect on humanity in general and especially its get a huge impact on people's mental health. I find it difficult to say whether this effect is mostly positive or negative. 
-Moreover, I'm not a psychologist to estimate people's mental health and my point of view a bit biased for the reason that I truly rarely use social media in my daily activities and routine, however there are several interesting thoughts I can share.
+Moreover, I'm not a psychologist to estimate people's mental health and my point of view a bit biased for the reason that I truly rarely use social media in my daily activities, however there are several interesting thoughts I can share. 
+At first, historically our life changed a lot thanks to the internet communications. In my childhood I couldn't find new friends, who would understand my passions. So I was lonely from time to time. Occasionally, I wanted to have someone who would share my hobbies, such as collecting insects or observing birds. 
