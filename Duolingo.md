@@ -39,4 +39,4 @@ Join Maershelmer is an American political scientist and best known for developin
 After reading his short article dedicated to the American approach to aggressive democracy promotion, I've been left with something to think about. 
 At the very beginning  let's me define that I am not a politician and related with the subject only as a hobby. I like explore ways of developing myself and society as a whole, including political direction, but I've never been in USA, I don't have any diploma near to this area. However, as a migrator originally from Russia and a person who have felt this subject on my own, personal experience, I have several truly not superficial thoughts that I would like to express. 
 So, let's I reveal my point of view about this article and especially about "offensive realism" because it's the central idea of the author. 
-Of c
+Of course I am agree with several claims and ideas, many things makes sense here, but I absolutely disagree with the final conclusion and the main statement where we look at the government like at the separated entity, without psychology. 
