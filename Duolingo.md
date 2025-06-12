@@ -55,3 +55,9 @@ On the other side the relationships inside social media as vast as it shallow, s
 I remember reading a book a few months ago that focused on productivity in the digital age. One of the chapters really made me think about the subject. It suggested that social media hadn't just been distracting us from our tasks, but had actually been changing the way we process information and maintain focus. I found this idea quite striking because it's not about immediate distraction, but long-term cognitive shifts. 
 Nowadays, I'm trying not to use social media too frequently, nevertheless sometimes I find myself trapped in the snare of social media. 
 In conclusion I want to say that I don't consider social media to be eval. Social media brings people together all over the world and makes many aspects of our life easier. Nevertheless, we must be attentive what has such a significant impact on us. 
+
+8. Teenagers have a lack of moral values.
+Several years ago I heard a disturbing story that a group of drunk teenagers had danced on the grave of a soldier who had died in the Second World War. 
+It was an insult of the memory of sacrifice, to history, to humanity. 
+The story happened in Russia, where traditions and memory about the war is considered inviolable and sacred. 
+Or here another example that also took place in Russia: the musician band "Pussy Riot" broke into the church and sang offensive punk songs.  
