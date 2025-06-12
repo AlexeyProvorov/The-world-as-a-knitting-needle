@@ -69,9 +69,9 @@ Personally, I love to explain this comparison with the timeline of others stages
 Premodernism was when people absolutely believed in traditions and God. People overall rejected the study of the world.
 After science appeared, people began to try to explain everything in hard logical terms. Mathematic and other sciences have developed. This was called modernism, and here accurate descriptions have become a trend. 
 The next one is postmodernism, our main topic today, which explains teenager's behavior. Postmodernism emerged on the basement of contradictions. We understood that we can't explain the world in pure words and hard terms. We became disappointed with the stereotypical approach. So, postmodernism is the idea of breaking the system and rules, going against the current. 
-This idea would be even more understandable if we speak about cinema or art. Spider man, X-men and Wolverine, Iron man, The fighting club, 
-
-
+This idea would be even more understandable if we speak about cinema or art. Spider man, X-men and Wolverine, Iron man, The fighting club and literarily almost all contemporary popular movies have a common idea. The main character goes against the current and he brakes the system.
+How we can blame teenagers if they just want to imitate they heroes from movies we made?
+One of my favorite family cartoon is "Shrek". This masterpiece is a nice example of postmodernism. "Shrek" is laughing at system and at traditions. A nice prince has to take a princess? Oh, it's bullshit, here must be the ogre. Dragons scares you? Don't worry because the donkey 
 
 
 
