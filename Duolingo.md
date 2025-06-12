@@ -64,7 +64,11 @@ Or here another example that also took place in Russia: the musician band "Pussy
 So, why I am speaking about this? We can imagine innumerous instances similar to those, from too revealing clothes to really crazy or dangerous actions. How we can comprehend, is this really abnormal behavior or this is just usual process of human psychology? May be this is the inevitable stage of every generation? 
 We have to be smarter and we need to rise our understanding of this problem in our society before accusing others of lacking morals. 
 To reveal my perspective I would like to mention about such phenomenon as postmodernism.  
-Just to clarify this subject, the society has a common macro psychological trend, that was called postmodernism. This is kind of a type of  
+Just to clarify this subject, the society has a common macro psychological trend, that was called postmodernism. This is  like a type of thinking or kind of what an every person believes in. In a brood sense. 
+Personally, I love to explain this comparison with the timeline of others stages. That's all of them: premodernism, modernism, postmodernism and metamodernism. 
+Premodernism was when people absolutely believed in traditions and God. People overall rejected the study of the world.
+After science appeared, people began to try to explain everything in hard terms. 
+
 
 
 
