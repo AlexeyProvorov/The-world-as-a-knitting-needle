@@ -67,8 +67,9 @@ To reveal my perspective I would like to mention about such phenomenon as postmo
 Just to clarify this subject, the society has a common macro psychological trend, that was called postmodernism. This is  like a type of thinking or kind of what an every person believes in. In a brood sense. 
 Personally, I love to explain this comparison with the timeline of others stages. That's all of them: premodernism, modernism, postmodernism and metamodernism. 
 Premodernism was when people absolutely believed in traditions and God. People overall rejected the study of the world.
-After science appeared, people began to try to explain everything in hard terms. 
-
+After science appeared, people began to try to explain everything in hard logical terms. Mathematic and other sciences have developed. This was called modernism, and here accurate descriptions have become a trend. 
+The next one is postmodernism, our main topic today, which explains teenager's behavior. Postmodernism emerged on the basement of contradictions. We understood that we can't explain the world in pure words and hard terms. We became disappointed with the stereotypical approach. So, postmodernism is the idea of breaking the system and rules, going against the current. 
+This idea would be even more understandable if we speak about cinema or art. Spider man, X-men and Wolverine, Iron man, The fighting club, 
 
 
 
