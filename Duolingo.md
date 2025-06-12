@@ -71,8 +71,13 @@ After science appeared, people began to try to explain everything in hard logica
 The next one is postmodernism, our main topic today, which explains teenager's behavior. Postmodernism emerged on the basement of contradictions. We understood that we can't explain the world in pure words and hard terms. We became disappointed with the stereotypical approach. So, postmodernism is the idea of breaking the system and rules, going against the current. 
 This idea would be even more understandable if we speak about cinema or art. Spider man, X-men and Wolverine, Iron man, The fighting club and literarily almost all contemporary popular movies have a common idea. The main character goes against the current and he brakes the system.
 How we can blame teenagers if they just want to imitate they heroes from movies we made?
-One of my favorite family cartoon is "Shrek". This masterpiece is a nice example of postmodernism. "Shrek" is laughing at system and at traditions. A nice prince has to take a princess? Oh, it's bullshit, here must be the ogre. Dragons scares you? Don't worry because the donkey 
-
+One of my favorite family cartoon is "Shrek". This masterpiece is a nice example of postmodernism. "Shrek" is laughing at system and at traditions. A nice prince has to take a princess? Oh, it's bullshit, here must be the ogre. Dragons scares you? Don't worry because the talking donkey will marry om the dragon. There are no rules at all. 
+Such significant part of our life as memes is a pure postmodernism. All we love to lough at the system. 
+Therefore, we cant blame teenagers for their lack of moral values. By my opinion this is a natural process. 
+But, do you remember about the stage number four? Scientists believes that it's metamodernism. 
+Metamodernism based on new generations. Here people believe that happiness is the very essence of human life. 
+To be shortly, you can do everything if you feel happy. That's point. 
+Based on this I would be able to predict the behavior in the future, but I will live it to you. Personally, I think that a future where happiness is the most important thing is life is amazing. Nonetheless, maybe
 
 
 Just want to remind you that several generations ago public executions weren't abnormal and people lived thirty - thirty five years in average. Therefore teenager's lack of moral don't look too scary. Overton Window shifted, and shifted our perception of normality.
