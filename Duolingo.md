@@ -62,3 +62,4 @@ It was an insult of the memory of sacrifice, to history, to humanity.
 The story happened in Russia, where traditions and memory about the war is considered inviolable and sacred. 
 Or here another example that also took place in Russia: the musician band "Pussy Riot" broke into the church and started singing offensive punk songs. It should be said that teenagers were imprisoned for two years for this reckless (or may be innocent) action.
 So, why I am speaking about this? We can imagine innumerous instances similar to those, from too revealing clothes to really crazy or dangerous actions. How we can comprehend, is this really abnormal behavior or this is just usual process of human psychology? May be this is the inevitable stage of every generation? 
+Just want to remind you that several generations ago public executions weren't abnormal and people lived thirty - thirty five years in average. 
