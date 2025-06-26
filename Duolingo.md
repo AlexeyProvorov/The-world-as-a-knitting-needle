@@ -92,4 +92,5 @@ In additional I would say that I use public transport and I can't drive a car. P
 To make long story short, I believe that we have to fight for environment and reduce contaminations. And this applies not only to private cars but all sources of pollution. We are responsible for the world.
 
 10. A university degree is essential? 
-Some people believe that a university degree is the one good way to find a job, other people think that you don't have to get a degree if you possess necessary skills to fulfill the issue at the job. Where is the truth? I believe that both of the groups of  I am gonna tell you my own point of view based on my own way of education. 
+Some people believe that a university degree is the one good way to find a job, other people think that you don't have to get a degree if you possess necessary skills to fulfill the issue at the job. Where is the truth? In a nutshell, I believe that both groups of people are partly right here and both groups also partly wrong, so the truth placed somewhere in the middle. I am gonna tell you my point of view based on my own way of education. 
+My extensive experience that I've got throughout my whole life 
