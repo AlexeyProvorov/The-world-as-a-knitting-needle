@@ -94,4 +94,7 @@ To make long story short, I believe that we have to fight for environment and re
 10. A university degree is essential? 
 Some people believe that a university degree is the one good way to find a job, other people think that you don't have to get a degree if you possess necessary skills to fulfill the issue at the job. Where is the truth? In a nutshell, I believe that both groups of people are partly right here and both groups also partly wrong, so the truth placed somewhere in the middle. I am gonna tell you my point of view based on my own way of education. 
 My extensive experience that I've got throughout my whole life tells me that I could say something essential about the topic. As an example, I am currently working for an international company without a university degree. 
-As you can see, my path shows that 
+As you can see, my path shows that higher education is not necessary in order to find a job or even a good job.
+Nonetheless, everything in my life is much more complicated and, to be frankly, I can't claim blindly than everybody can find a job without education. 
+
+I need to mention here that I am talking only about higher education, but not about education in general. So, your hard self-education has to be with you during all your life. 
