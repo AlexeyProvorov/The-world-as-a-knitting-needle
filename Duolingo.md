@@ -57,7 +57,6 @@ Nowadays, I'm trying not to use social media too frequently, nevertheless someti
 In conclusion I want to say that I don't consider social media to be eval. Social media brings people together all over the world and makes many aspects of our life easier. Nevertheless, we must be attentive what has such a significant impact on us. 
 
 8. Teenagers have a lack of moral values.
-
 Several years ago I heard a disturbing story that a group of drunk teenagers had danced on the grave of a soldier who had died in the Second World War. 
 It was an insult of the memory of sacrifice, to history, to humanity. 
 The story happened in Russia, where traditions and memory about the war is considered inviolable and sacred. 
@@ -91,3 +90,6 @@ Also if we recall the coronavirus infection we will notice that publick transpor
 In additional I would say that I use public transport and I can't drive a car. Publick transport is chipper and by my opinion more comfortable in the big city. But if I lived in the countryside a personal car would be absolutely necessary.
 
 To make long story short, I believe that we have to fight for environment and reduce contaminations. And this applies not only to private cars but all sources of pollution. We are responsible for the world.
+
+10. A university degree is essential? 
+Some people believe that a university degree is the one good way to find a job, other people think that you don't have to get a degree if you possess necessary skills to fulfill the issue at the job. Where is the truth? I believe that both of the groups of  I am gonna tell you my own point of view based on my own way of education. 
