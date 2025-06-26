@@ -102,13 +102,9 @@ Eighty percent of teachers in my school and my unfinished university were really
 Therefore, we have a situation when employers looking for not graduated students nice diploma, but workers who really know how to create something relevant and valuable. 
 A disclaimer should be added here, that in many fields the diploma is still a priority. For example, in medicine. So, I speak only about several fields where we can change a diploma to experience. 
 My second point here is that there are same difficulties in promotion, when you have a job already. Just for an instance, after getting the job I am faced with the fact that I can not public scientific articles due to lack of a degree.  Also, as an another example, I can't relocate in different country for the talent visa if I haven't a degree. 
-And, one of my really personal point. I have been self-educating since I was a child, and this is a fundamental mindset for me. Consequently, maybe for me this is a good approach, but if you don't feel free when you force yourself to learn, may be a university would be better. 
+And, one of my really personal point. I have been self-educating since I was a child, and this is a fundamental mindset for me.  Consequently, maybe for me this is a good approach, but if you don't feel free when you force yourself to learn, may be a university would be better. 
 I want to mention, that even I going to graduate university if it would be possible and good fitted for my specialization. 
-As a summery, I believe, that you can find a job without a degree. But, unfortunately this approach requires a lot of effords 
+As a summery, I believe, that you can find a job without a degree. But, unfortunately this approach requires a lot of efforts and strong purposefulness, and likely you won't be hired on Google, Space-X or Microsoft. 
+But at least you will be happy that you have fulfilled your goal, and overcame this way by your own. 
+In conclusion, I want to believe in yourself and prove to everyone that you don't need a degree in order to be the best. 
 
-
-
-
-
-
-I need to mention here that I am talking only about higher education, but not about education in general. So, your hard self-education has to be with you during all your life. 
