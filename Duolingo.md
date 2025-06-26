@@ -99,7 +99,9 @@ Nonetheless, everything in my life is much more complicated and, to be frankly, 
 What makes me think this way? Well, there are several important points. At the very beginning, we need to find out why employers hire people without higher education? Do they want to find a new blood for the job or maybe they can't find a person who has a higher degree? The right answer is that humanity has progressed too rapidly. To be more precise, only one sphere is developing much faster than others. I mean technologies, of course. 
 Our educational system is developing slowly if we compare it with technologies. 
 Eighty percent of teachers in my school and my unfinished university were really elderly. All we know that elderly people have difficulties with new technologies. Consequently, even in the best universities they teach irrelevant information. 
-Therefore, we have a situation when emp
+Therefore, we have a situation when employers looking for not graduated students nice diploma, but workers who really know how to create something relevant and valuable. 
+A disclaimer should be added here, that in many fields the diploma is still a priority. For example, in medicine. So, I speak only about several fields where we can change a diploma to experience. 
+My second point here is that there are same difficulties in promotion, when you 
 
 
 
