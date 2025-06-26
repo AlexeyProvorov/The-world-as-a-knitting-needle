@@ -96,8 +96,10 @@ Some people believe that a university degree is the one good way to find a job, 
 My extensive experience that I've got throughout my whole life tells me that I could say something essential about the topic. As an example, I am currently working for an international company without a university degree. 
 As you can see, my path shows that higher education is not necessary in order to find a job or even a good job.
 Nonetheless, everything in my life is much more complicated and, to be frankly, I can't claim blindly that everybody can find a job they want without education.
-What makes me think this way? Well, there are several important points. At the very beginning, we need to find out why employers hire people without higher education? Do they want to find a new blood for the job or maybe they can't find a person who has a higher degree? The right answer is that humanity has progressed too rapidly. To be more precise, only one sphere is developing much faster than others. I mean the technologies, of course. This field 
-
+What makes me think this way? Well, there are several important points. At the very beginning, we need to find out why employers hire people without higher education? Do they want to find a new blood for the job or maybe they can't find a person who has a higher degree? The right answer is that humanity has progressed too rapidly. To be more precise, only one sphere is developing much faster than others. I mean technologies, of course. 
+Our educational system is developing slowly if we compare it with technologies. 
+Eighty percent of teachers in my school and my unfinished university were really elderly. All we know that elderly people have difficulties with new technologies. Consequently, even in the best universities they teach irrelevant information. 
+Therefore, we have a situation when emp
 
 
 
