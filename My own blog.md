@@ -12,5 +12,5 @@ What's the idea: collect deferent people together.
 
 I see a lot of contradictions. 
 Okay. Let's start from the user's pain. Good IT network is a really huge pain for all. Bu it's not enough. What I could give for professionals? A new place for their own blogs? So, I may need to develop my own blog first at this point?  Not at all.
-What else? How to connect my blog, travels and teenagers? Make fun corporate events or parties? What's the reason for children to go to the telegram? The IT game? To feel adult themself with the work of future? 
+What else? How to connect my blog, travels and teenagers? Make fun corporate events or parties? What's the reason for children to go to the telegram? The IT game? To feel adult themself with the work of future? To feel happy about our vibe? 
 
