@@ -15,4 +15,4 @@ Okay. Let's start from the user's pain. Good IT network is a really huge pain fo
 What else? How to connect my blog, travels and teenagers? Make fun corporate events or parties? What's the reason for children to go to the telegram? The IT game? To feel adult themself with the work of future? To feel happy about our vibe? 
 
 The main point that I haven't to distract my own work with science and math. So, I can public interesting articles already to my telegram. 
-Also, I don't need to think too much about the way how to monetize my personal social network. If people fell this type of life productive enough, so they may to join me. Other ideas and  will engage later if the Idea to travel and maintain the capacity will be great. 
+Also, I don't need to think too much about the way how to monetize my personal social network. If people fell this type of life productive enough, so they may to join me. Other ideas, participants, events or even monetize will engage later if the main Idea to travel and maintain the capacity will be work in real. Right now this blog or telegram channel has to be useful and valuable for me personally.  
