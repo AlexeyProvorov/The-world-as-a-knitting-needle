@@ -35,8 +35,7 @@
               "title": "My own blog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4bc0dd826ee02d9",
+  "active": "3aadaf915351ba0a",
   "lastOpenFiles": [
-    "Duolingo.md",
     "My own blog.md",
+    "Untitled 1",
+    "Untitled",
+    "Duolingo.md",
+    "1..md",
+    "Многомировая интерпритация.md",
+    "Бездомный пёс Нови Сада.md",
     "Bugs poem.md",
     "The simulation.md",
     "The world.md",
-    "Многомировая интерпритация.md",
     "Duolingo tests",
-    "Бездомный пёс Нови Сада.md",
-    "1..md",
     "1.md",
     "README.md",
     "Welcome.md"
