@@ -11,10 +11,14 @@
             "id": "a7704f636c0fa700",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Collapse of AI Reasoning (by Apple).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Collapse of AI Reasoning (by Apple)"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "a7704f636c0fa700",
   "lastOpenFiles": [
+    "The Collapse of AI Reasoning (by Apple).md",
     "The simulation.md",
     "Duolingo.md",
     "blog ideas.md",
