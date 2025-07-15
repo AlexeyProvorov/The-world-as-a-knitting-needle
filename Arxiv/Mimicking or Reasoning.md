@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=VFcEanEAXJM
 - **arXiv**: [2506.07936](https://arxiv.org/abs/2506.07936)   
 - **Authors**: Chengyue Huang, Yuchen Zhu, Sichen Zhu, Jingyun Xiao, Moises Andrade, Shivang Chopra, Zsolt Kira  
 
----
+--- 
 
 ## 🎯 Goals & Motivation  
 - **Question** whether vision-language models (VLMs) truly **learn** from few-shot multimodal in-context examples (MM-ICL) or merely apply **surface heuristics** (copy last example, majority vote).  
