@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "468aba07b091041b",
+        "id": "c12cd5e205e4159d",
         "type": "tabs",
         "children": [
           {
-            "id": "a7704f636c0fa700",
+            "id": "8825d26369bcd128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arxiv/The Collapse of AI Reasoning (by Apple).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Collapse of AI Reasoning (by Apple)"
-            }
-          },
-          {
-            "id": "9808164e6c4c8062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arxiv/The Collapse of AI Reasoning (by Apple).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Collapse of AI Reasoning (by Apple)"
-            }
-          },
-          {
-            "id": "777bbb6702035139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arxiv/Mimicking or Reasoning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mimicking or Reasoning"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +166,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "777bbb6702035139",
+  "active": "8825d26369bcd128",
   "lastOpenFiles": [
-    "Arxiv/The simulation.md",
     "Arxiv/The Collapse of AI Reasoning (by Apple).md",
-    "по агентам.md",
     "Arxiv/Mimicking or Reasoning.md",
+    "Arxiv/The simulation.md",
+    "по агентам.md",
     "Duolingo.md",
     "blog ideas.md",
     "The Illusion of Thinking.md",
