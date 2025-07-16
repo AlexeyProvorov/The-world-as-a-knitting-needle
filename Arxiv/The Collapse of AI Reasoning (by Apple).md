@@ -7,8 +7,8 @@ https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
 ---
 title: The Illusion of Thinking: Detailed Analysis & Related Works
 tags: [LLM, reasoning, algorithms, survey]
----
 
+---
 # 📖 Introduction  
 Modern **Large Reasoning Models (LRMs)**—LLMs augmented with explicit chain-of-thought (CoT)—score highly on benchmarks yet mask fundamental reasoning limits. **The Illusion of Thinking** (Shojaee et al., 2025) exposes these limits via a **controlled puzzle suite**, varying problem complexity with surgical precision. This note merges a deep dive into that core study with in-depth overviews of six contemporary works that extend, challenge or complement its insights.
 
