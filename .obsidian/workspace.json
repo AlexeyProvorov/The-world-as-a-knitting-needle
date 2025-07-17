@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arxiv/Mimicking or Reasoning.md",
+                "file": "по агентам.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mimicking or Reasoning"
+              "title": "по агентам"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "8825d26369bcd128",
   "lastOpenFiles": [
+    "Arxiv/Mimicking or Reasoning.md",
     "Arxiv/The Collapse of AI Reasoning (by Apple).md",
     "Arxiv/The simulation.md",
-    "Arxiv/Mimicking or Reasoning.md",
     "по агентам.md",
     "Duolingo.md",
     "blog ideas.md",
