@@ -6,7 +6,7 @@ https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
 
 ---
 title: The Illusion of Thinking: Detailed Analysis & Related Works
-tags: [LLM, reasoning, algorithms, survey]
+tags: [LLM, reasoning, algorithms, survey]  
 
 ---
 # 📖 Introduction  
