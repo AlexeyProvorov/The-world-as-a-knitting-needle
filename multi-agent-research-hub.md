@@ -24,6 +24,7 @@ This article describes how Anthropic built its Research feature using a lead Cla
 **Main conclusion:**  
 With robust orchestration patterns, prompt strategies, evaluation methods, and fault-recovery practices, production-grade multi-agent systems can dramatically enhance complex research tasks—but the gap between prototype and reliable production demands meticulous engineering around tooling, evaluation, and deployment. :contentReference[oaicite:3]{index=3}
 </details>
+ 
  # Must have
 https://arxiv.org/abs/2507.11988
 <details>
