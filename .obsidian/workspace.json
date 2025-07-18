@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "по агентам"
             }
+          },
+          {
+            "id": "c01b2434a183c116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "multi-agent-research-hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "multi-agent-research-hub"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8825d26369bcd128",
+  "active": "c01b2434a183c116",
   "lastOpenFiles": [
+    "по агентам.md",
+    "multi-agent-research-hub.md",
     "Arxiv/Mimicking or Reasoning.md",
     "Arxiv/The Collapse of AI Reasoning (by Apple).md",
     "Arxiv/The simulation.md",
-    "по агентам.md",
     "Duolingo.md",
     "blog ideas.md",
     "The Illusion of Thinking.md",
