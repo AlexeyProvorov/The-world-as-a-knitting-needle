@@ -42,3 +42,22 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
 
+
+Graph-based AI agent
+https://arxiv.org/pdf/2410.04660
+<details>
+  <summary>KGAREVION: An AI Agent for Knowledge‑Intensive Biomedical QA – April 24 – 28, 2025</summary>
+
+**Tags:** Biomedical QA, Knowledge Graph, LLM Verification, Iterative Reasoning
+
+This paper presents **KGAREVION**, a knowledge graph–based AI agent for biomedical question answering that executes a four‑stage pipeline:
+- **Generate:** LLM generates candidate medical‑concept triples from the input query.  
+- **Review:** A fine‑tuned LLM augmented with KG embeddings verifies the correctness of each triple.  
+- **Revise:** The system iteratively corrects or supplements any invalid triples.  
+- **Answer:** Final answers are constructed based on the verified, context‑relevant triples. :contentReference[oaicite:4]{index=4}
+
+KGAREVION achieves an average accuracy improvement of **+6.75%** over 15 baseline models across seven medical QA datasets, supports both multiple‑choice and open‑ended formats, demonstrates strong zero‑shot generalization on AfriMed‑QA, and shows resilience to answer‑option perturbations. :contentReference[oaicite:5]{index=5}
+
+**Main conclusion:**  
+By integrating LLM hypothesis generation with rigorous KG‑based verification and iterative refinement, KGAREVION significantly enhances the precision and reliability of knowledge‑intensive biomedical QA, paving the way for clinical decision support and advanced biomedical research applications. :contentReference[oaicite:6]{index=6}
+</details>
