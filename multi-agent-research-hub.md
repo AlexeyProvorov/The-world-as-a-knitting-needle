@@ -43,6 +43,11 @@ Aime significantly outperforms conventional multi‑agent systems—achieving ne
 </details>
 
 
+
+
+
+## RAG
+### Graphs
 Graph-based AI agent
 https://arxiv.org/pdf/2410.04660
 <details>
@@ -60,4 +65,49 @@ KGAREVION achieves an average accuracy improvement of **+6.75%** over 15 baselin
 
 **Main conclusion:**  
 By integrating LLM hypothesis generation with rigorous KG‑based verification and iterative refinement, KGAREVION significantly enhances the precision and reliability of knowledge‑intensive biomedical QA, paving the way for clinical decision support and advanced biomedical research applications. :contentReference[oaicite:6]{index=6}
+</details>
+
+GraphRAG: Graph-Based RAG for Global Sensemaking  
+https://arxiv.org/pdf/2404.16130
+
+<details>
+  <summary>From Local to Global: A GraphRAG Approach to Query-Focused Summarization – February 2025</summary>
+
+**Tags:** Retrieval-Augmented Generation, Query-Focused Summarization, Knowledge Graphs, LLM Evaluation, Sensemaking
+
+This paper introduces **GraphRAG**, a graph-based RAG method designed for answering **global queries** over large document corpora that exceed the context window of LLMs. The pipeline consists of:
+
+- **Extract:** LLM extracts entities, relationships, and factual claims from text chunks.  
+- **Graph Build:** Constructs a knowledge graph with entities as nodes and relationships as edges.  
+- **Community Detect:** Applies hierarchical graph clustering (Leiden algorithm) to group related concepts.  
+- **Summarize:** Generates summaries at multiple community levels (C0–C3).  
+- **Query Answer:** Uses map-reduce over community summaries to answer complex, corpus-wide queries. :contentReference[oaicite:4]{index=4}
+
+GraphRAG **outperforms standard vector RAG** on query-focused summarization tasks by large margins (up to **+33% win rate**) in **comprehensiveness** and **diversity** across podcast and news datasets (~1M tokens each). It also requires **fewer context tokens** than baseline summarization, making it more scalable. :contentReference[oaicite:4]{index=4}
+
+**Main conclusion:**  
+By leveraging LLM-derived knowledge graphs and hierarchical summarization, **GraphRAG enables accurate, diverse, and scalable answering of global questions** across large text corpora – a crucial step for deeper AI-powered sensemaking beyond surface-level retrieval. :contentReference[oaicite:4]{index=4}
+</details>
+
+Retrieval-Augmented Generation with Knowledge Graphs for Customer Service
+https://arxiv.org/pdf/2404.16130
+<details>
+  <summary>Retrieval-Augmented Generation with Knowledge Graphs for Customer Service QA – July 14–18, 2024</summary>
+
+**Tags:** RAG, Knowledge Graph, Customer Service, LLMs, Retrieval, QA Systems
+
+This paper from LinkedIn presents a **graph-based RAG method** tailored for technical support. Instead of treating historical issue tickets as plain text, the system builds a **dual-layered knowledge graph**:
+- **Intra-ticket:** parses ticket structure (e.g., summary, steps) into a tree;
+- **Inter-ticket:** connects tickets explicitly (e.g., "cloned from") and implicitly via semantic similarity.
+
+During inference, the system:
+- Uses LLMs to extract **named entities and intent** from queries;
+- Retrieves **relevant subgraphs** based on embeddings (e.g., E5, BERT);
+- Converts queries into **graph-language queries** (e.g., Cypher for Neo4j);
+- Generates final answers using the LLM decoder.
+
+The method achieved **+77.6% improvement in MRR** and **+0.32 BLEU**, and in production reduced **median resolution time by 28.6%** for LinkedIn’s support team. :contentReference[oaicite:12]{index=12}
+
+**Main conclusion:**  
+By fusing RAG with structured graph-based ticket representation and LLM-powered subgraph reasoning, the system significantly boosts retrieval precision and answer quality in customer service contexts—demonstrating the value of KG-enhanced RAG for enterprise support automation. :contentReference[oaicite:12]{index=12}
 </details>
