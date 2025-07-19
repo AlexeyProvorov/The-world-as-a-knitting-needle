@@ -117,3 +117,8 @@ This paper presents a structured roadmap for bridging LLMs and KGs by:
 **Main conclusion:**  
 By unifying the generative capabilities of LLMs with the precision and interpretability of KGs, the proposed approaches lay the foundation for AI systems that are both highly adaptable and reliably factual, though real-world deployment will require advances in scalable knowledge updates, efficient integration, and robust hallucination detection.
 </details>
+
+
+
+The Ultimate Guides
+https://arxiv.org/pdf/2408.13296
