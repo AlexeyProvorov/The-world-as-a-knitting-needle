@@ -88,4 +88,18 @@ GraphRAG **outperforms standard vector RAG** on query-focused summarization task
 By leveraging LLM-derived knowledge graphs and hierarchical summarization, **GraphRAG enables accurate, diverse, and scalable answering of global questions** across large text corpora – a crucial step for deeper AI-powered sensemaking beyond surface-level retrieval. :contentReference[oaicite:4]{index=4}
 </details>
 
+https://arxiv.org/pdf/2404.17723
+<details>
+  <summary>Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering – July 14, 2024</summary>
+
+**Tags:** Retrieval‑Augmented Generation, Knowledge Graph, Customer Service, Question Answering, Embeddings
+
+This paper presents a novel **Retrieval‑Augmented Generation** approach that leverages a **Knowledge Graph** constructed from historical support tickets to:
+- **Preserve ticket structure** by modeling intra‑ticket trees and inter‑ticket links (explicit and embedding‑based), enriching semantic context for retrieval.  
+- **Combine KG retrieval with LLM generation**, extracting relevant subgraphs via graph queries and using them as context for answer synthesis.  
+- **Validate in production** at LinkedIn, achieving a 77.6 % increase in MRR, a 0.32 BLEU‑point gain, and a 28.6 % reduction in median issue resolution time.
+
+**Main conclusion:**  
+Integrating knowledge graphs into RAG pipelines substantially boosts retrieval accuracy and answer quality, resulting in faster and more effective customer support.
+</details>
 
