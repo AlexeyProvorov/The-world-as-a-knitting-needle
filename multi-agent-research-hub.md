@@ -103,3 +103,17 @@ This paper presents a novel **Retrieval‑Augmented Generation** approach that l
 Integrating knowledge graphs into RAG pipelines substantially boosts retrieval accuracy and answer quality, resulting in faster and more effective customer support.
 </details>
 
+https://arxiv.org/pdf/2306.08302
+<details>
+  <summary>Unifying Large Language Models and Knowledge Graphs: A Roadmap – July 19, 2025</summary>
+
+**Tags:** Large Language Models, Knowledge Graphs, Retrieval-Augmented Generation, Hybrid Reasoning, Explainability
+
+This paper presents a structured roadmap for bridging LLMs and KGs by:
+- Introducing **KG-Enhanced LLMs**, which integrate structured graph facts during pretraining and via retrieval or prompting at inference to improve factual accuracy and reduce hallucinations.  
+- Detailing **LLM-Augmented KGs**, leveraging LLMs for embedding, completion, construction, and QA over knowledge graphs to boost coverage and enable natural-language-driven graph creation.  
+- Proposing **Synergized LLMs + KGs**, a unified framework where models perform bi-directional reasoning—dynamically retrieving from KGs and traversing graph paths as part of an agent-style inference loop.  
+
+**Main conclusion:**  
+By unifying the generative capabilities of LLMs with the precision and interpretability of KGs, the proposed approaches lay the foundation for AI systems that are both highly adaptable and reliably factual, though real-world deployment will require advances in scalable knowledge updates, efficient integration, and robust hallucination detection.
+</details>
