@@ -63,7 +63,6 @@ By integrating LLM hypothesis generation with rigorous KG‑based verification a
 </details>
 
 
-
 ## RAG
 ### Graphs
 
