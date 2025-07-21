@@ -138,3 +138,16 @@ This report presents a **comprehensive seven‑stage pipeline** for fine‑tunin
 **Main conclusion:**  
 The guide excels in breadth and depth, marrying theory with actionable best practices and covering state‑of‑the‑art techniques (PEFT, RLHF, multi‑agent, multimodal). Its extensive coverage benefits researchers and engineers alike, though its density suggests adding interactive examples and real‑world benchmark comparisons to improve usability for rapid reference.
 </details>
+
+https://ppc.land/content/files/2025/01/Newwhitepaper_Agents2.pdf?utm_source=chatgpt.com
+<details>
+  <summary>Agents – September 2, 2024</summary>
+
+**Tags:** Agents, Cognitive Architecture, Orchestration, Tools, Prompt Engineering, RAG, LangChain, Vertex AI, Productionization
+
+This whitepaper presents a comprehensive overview of generative AI agents, defining them as autonomous systems that extend foundational language models with external tools through a cyclical orchestration layer. It details the core components—Models, Tools (Extensions, Functions, Data Stores), and the Orchestration Layer—and explores reasoning frameworks like ReAct, Chain‑of‑Thought, and Tree‑of‑Thoughts. Through practical examples using LangChain and Google’s Vertex AI platform, it illustrates how agents can plan, execute, and refine multi‑step tasks by dynamically selecting and invoking tools while maintaining state and memory. :contentReference[filecite:turn0file0]{index=1}
+
+**Main conclusion:**  
+Production‑grade multi‑agent systems can dramatically enhance complex research and application workflows by combining robust orchestration patterns, targeted learning strategies, and diverse tool integrations; however, bridging the gap from prototype to reliable, scalable deployments demands meticulous engineering in tool design, evaluation frameworks, fault recovery, and iterative refinement. :contentReference[filecite:turn0file0]{index=2}
+</details>
+
