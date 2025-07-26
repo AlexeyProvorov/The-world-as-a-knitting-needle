@@ -1,6 +1,7 @@
 Useful thoughts and experience about the MAS developing 
 
 
+
 https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering 
 <details>
   <summary>Don’t Build Multi-Agents – June 12, 2025</summary>
