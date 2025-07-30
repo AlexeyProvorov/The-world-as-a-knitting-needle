@@ -151,8 +151,18 @@ This whitepaper presents a comprehensive overview of generative AI agents, defin
 Production‑grade multi‑agent systems can dramatically enhance complex research and application workflows by combining robust orchestration patterns, targeted learning strategies, and diverse tool integrations; however, bridging the gap from prototype to reliable, scalable deployments demands meticulous engineering in tool design, evaluation frameworks, fault recovery, and iterative refinement. :contentReference[filecite:turn0file0]{index=2}
 </details>
 
+## Approaches
+### Anthropic
+Important articles
+https://www.anthropic.com/engineering/built-multi-agent-research-system
+https://www.anthropic.com/engineering/building-effective-agents
+https://www.anthropic.com/news/model-context-protocol\
 
-## Architectures
+
+
+
+
+## Architectures LLM
 ### DeepSeek
 https://www.youtube.com/watch?v=0VLAoVGf_74
 
@@ -161,3 +171,8 @@ https://arxiv.org/pdf/2405.0443
 
 DeepSeek-R1
 https://arxiv.org/pdf/2501.12948
+
+
+
+## MCP
+https://github.com/modelcontextprotocol/servers
