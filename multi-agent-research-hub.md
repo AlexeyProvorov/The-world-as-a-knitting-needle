@@ -159,9 +159,6 @@ https://www.anthropic.com/engineering/building-effective-agents
 https://www.anthropic.com/news/model-context-protocol\
 
 
-
-
-
 ## Architectures LLM
 ### DeepSeek
 https://www.youtube.com/watch?v=0VLAoVGf_74
@@ -171,7 +168,6 @@ https://arxiv.org/pdf/2405.0443
 
 DeepSeek-R1
 https://arxiv.org/pdf/2501.12948
-
 
 
 ## MCP
