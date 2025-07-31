@@ -172,3 +172,27 @@ https://arxiv.org/pdf/2501.12948
 
 ## MCP
 https://github.com/modelcontextprotocol/servers
+
+
+
+## Test models 
+
+Test model's reasoning
+https://arxiv.org/pdf/2507.22411
+<details>
+  <summary>NeedleChain: Measuring Intact Long-Context Reasoning Capability of Large Language Models – July 30, 2025</summary>
+
+**Tags:** Large Language Models, Long Context, Reasoning, Evaluation Benchmarks, ROPE, Model Limitations
+
+This paper introduces **NeedleChain**, a novel benchmark designed to test whether large language models (LLMs) can perform *intact long-context reasoning*—that is, fully comprehend and integrate all relevant parts of a long context to answer a query.
+
+Key contributions include:
+- Demonstrating that traditional benchmarks like **Needle-in-a-Haystack (NIAH)** significantly overestimate LLMs’ long-context comprehension, as they only test retrieval of relevant snippets amid noise, not full-context understanding.
+- Designing three **reasoning chains** (Forward, Backward, Mixed) where all context is query-relevant, and models must logically integrate chained salary statements to answer correctly.
+- Showing that even state-of-the-art models like **GPT-4o, Qwen2.5, and LLaMA3.3** fail drastically on NeedleChain beyond 500 tokens—despite supporting 128K to 1M token contexts—especially on backward and mixed reasoning chains.
+- Providing an **error taxonomy** (Instruction Miss, Needle Omission, Calculation Error) and **heatmap analysis**, revealing that models are "logically lost in the middle," struggling not with position but with logic integration in mid-sequence.
+- Proposing a simple yet effective fix: **ROPE Contraction**, which improves positional encoding during inference by reducing the ROPE base, outperforming even advanced extension techniques like Yarn.
+
+**Main conclusion:**  
+Modern LLMs can technically *process* long contexts but cannot *understand* them when all information matters. NeedleChain exposes this gap and sets a new standard for evaluating—and improving—true long-context reasoning. The findings urge a shift from merely scaling input length to enhancing *semantic integration* within that length.
+</details>
