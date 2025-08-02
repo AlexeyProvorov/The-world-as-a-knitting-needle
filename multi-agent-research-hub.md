@@ -153,6 +153,30 @@ Production‑grade multi‑agent systems can dramatically enhance complex resear
 
 
 https://arxiv.org/pdf/2507.17168
+<details>
+  <summary>Improving LLMs’ Generalized Reasoning Abilities by Graph Problems – July 23, 2025</summary>
+
+**Tags:** Graph Reasoning, Generalization, Continue Pretraining, GraphPile, LLM Robustness
+
+This paper introduces a new paradigm—**Graph Problem Reasoning (GPR)**—as a foundation for improving LLMs' reasoning beyond mathematics. The authors present:
+- **GraphPile**, a 10.9B-token dataset spanning 23 graph tasks (pathfinding, enumeration, computation, logic, etc.) with four components:  
+  - Chain-of-Thought (CoT)  
+  - Program-of-Thought (PoT)  
+  - Trace of Execution (ToE)  
+  - Real-world Graph Data  
+- **GraphMind**, LLaMA and Gemma-based models trained on GraphPile, showing substantial gains:
+  - +4.9% in math reasoning
+  - +21.2% in logic, commonsense, and algorithmic tasks
+  - +53% in graph reasoning
+
+**Key contributions:**  
+- Graph tasks are shown to generalize reasoning better than math-only pretraining, due to their diversity and complexity.  
+- Ablation studies confirm the critical value of ToE and CoT in building step-by-step, interpretable reasoning.  
+- Post-training boosts performance across domains (e.g., +23.6% on GSM8K with Gemma).  
+
+**Main conclusion:**  
+By using graph-based problems as a reasoning substrate, LLMs become not only stronger in graph domains but significantly more **generalized and robust** reasoners across mathematics, logic, code, and multi-hop QA—marking a shift from domain-specialized to **universally capable** AI models.
+</details>
 
 ## Approaches
 ### Anthropic
