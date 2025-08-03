@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ключевые слова и идеи для проекта.md",
+                "file": "Poems/Многомировая интерпритация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ключевые слова и идеи для проекта"
+              "title": "Многомировая интерпритация"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "04ffe46fede9356f",
   "lastOpenFiles": [
-    "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
+    "Poems/Бездомный пёс Нови Сада.md",
     "Ключевые слова и идеи для проекта.md",
+    "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Duolingo.md",
     "Arxiv/Mimicking or Reasoning.md",
     "Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",
@@ -193,7 +194,6 @@
     "Arxiv",
     "Untitled 1",
     "Poems/Многомировая интерпритация.md",
-    "Poems/Бездомный пёс Нови Сада.md",
     "Poems/Bugs poem.md",
     "Duolingo tests",
     "1.md",
