@@ -226,3 +226,23 @@ Modern LLMs can technically *process* long contexts but cannot *understand* them
 
 
 
+## Agentic Web
+
+https://arxiv.org/pdf/2507.21206
+<details>
+  <summary>Agentic Web: Weaving the Next Web with AI Agents – July 28 2025</summary>
+
+**Tags:** Agentic Web, AI Agents, Large Language Models, Multi-Agent Systems, Autonomous Web, Web Infrastructure  
+
+This paper lays out a blueprint for the coming **Agentic Web**, in which:
+
+- **Autonomous LLM-powered agents** become first-class citizens, able to plan, coordinate, and execute multi-step informational, transactional, and communicational tasks with minimal human intervention.  
+- The Web’s fabric is re-engineered for **machine-native interaction**: resources publish standardized, semantically rich endpoints (e.g., MCP, A2A) that agents can invoke directly.  
+- A three-axis framework—**Intelligence · Interaction · Economy**—organizes research challenges: long-horizon reasoning & memory, dynamic tool orchestration & inter-agent collaboration, and machine-to-machine value exchange (pricing, metering, payments).  
+- **Algorithmic pivots** are identified: passive search → proactive *agentic retrieval*; one-shot recommendations → iterative plans; single-agent loops → cooperative multi-agent graphs.  
+- The authors survey emerging **systems** (agent browsers, orchestration frameworks, granular billing models) and early **applications** (end-to-end travel booking, deep-research agents, automated negotiations).  
+- A dedicated risk section advocates **zero-trust architecture**, automated red-teaming, and market-manipulation defenses, while enumerating open problems in safety, economics, and governance.
+
+**Main conclusion:**  
+By merging autonomous agents with a machine-readable, economically incentivized Web, the Internet can evolve from static content delivery to goal-oriented execution chains. Realizing this vision will require advances in reliable long-term planning, secure agent protocols, transparent cost/accountability mechanisms, and cross-disciplinary policy—but promises a vastly more capable, self-optimizing digital ecosystem.
+</details>
