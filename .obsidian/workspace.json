@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "Цель в LLM + Новый контекст обучения + Забывание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "Цель в LLM + Новый контекст обучения + Забывание"
             }
           }
         ],
@@ -187,19 +187,19 @@
   },
   "active": "f5cdb5bdc8b0cda3",
   "lastOpenFiles": [
+    "Ключевые слова и идеи для проекта.md",
+    "Пустое пространство между эмбендингов.md",
+    "Цель в LLM + Новый контекст обучения + Забывание.md",
+    "multi-agent-research-hub.md",
     "Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
     "Poems/Многомировая интерпритация.md",
     "Poems/Бездомный пёс Нови Сада.md",
-    "Ключевые слова и идеи для проекта.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Duolingo.md",
     "Arxiv/Mimicking or Reasoning.md",
     "Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",
     "Arxiv/The Collapse of AI Reasoning (by Apple).md",
     "Arxiv/The simulation.md",
-    "multi-agent-research-hub.md",
-    "Пустое пространство между эмбендингов.md",
-    "Цель в LLM + Новый контекст обучения + Забывание.md",
     "Improving LLMs Generalized Reasoning Abilities by Graph Problems.md",
     "Thoughts",
     "blog ideas.md",
