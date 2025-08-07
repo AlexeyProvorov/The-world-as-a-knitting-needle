@@ -246,3 +246,22 @@ This paper lays out a blueprint for the coming **Agentic Web**, in which:
 **Main conclusion:**  
 By merging autonomous agents with a machine-readable, economically incentivized Web, the Internet can evolve from static content delivery to goal-oriented execution chains. Realizing this vision will require advances in reliable long-term planning, secure agent protocols, transparent cost/accountability mechanisms, and cross-disciplinary policy—but promises a vastly more capable, self-optimizing digital ecosystem.
 </details>
+
+
+# MAS cooperation
+
+https://arxiv.org/pdf/2508.04652
+<details>
+  <summary>MaGRPO in Multi-Agent and LLM Systems – August 7, 2025</summary>
+
+**Tags:** Multi-Agent Systems, Reinforcement Learning, Role-based Policies, LLM Coordination, Agent Collaboration
+
+This concept describes a framework called **MaGRPO** (*Multi-agent Generalized Role-based Policy Optimization*), aimed at optimizing the behavior of multiple agents that can dynamically assume different roles in a shared environment:
+
+- Emphasizes **role-based learning**, allowing agents to generalize and switch between roles (e.g. planner, executor, verifier) based on context and task demands.  
+- Supports **cooperative reinforcement learning**, where agents coordinate through shared rewards, role assignments, and mutual policy updates.  
+- Enables **LLM-based agents** to better collaborate by structuring their behavior according to defined roles, facilitating modular task execution in areas such as autonomous dialogue, retrieval, synthesis, or tool use.
+
+**Main conclusion:**  
+MaGRPO provides a scalable way to manage role dynamics in complex multi-agent LLM systems. By optimizing role-aware policies, it enhances collaboration, specialization, and adaptability—laying the groundwork for advanced AI systems capable of reasoning and acting as cohesive teams.
+</details>
