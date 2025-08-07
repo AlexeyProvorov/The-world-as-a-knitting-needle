@@ -265,3 +265,17 @@ This concept describes a framework called **MaGRPO** (*Multi-agent Generalized R
 **Main conclusion:**  
 MaGRPO provides a scalable way to manage role dynamics in complex multi-agent LLM systems. By optimizing role-aware policies, it enhances collaboration, specialization, and adaptability—laying the groundwork for advanced AI systems capable of reasoning and acting as cohesive teams.
 </details>
+
+<details>
+  <summary>Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents – August 6, 2025</summary>
+
+**Tags:** LLM Agents, Cognitive Architecture, Proactive Assistance, Privacy Preservation, Self-Evolution
+
+This paper introduces Galaxy, a cognition-centered IPA framework by:
+- Proposing **Cognition Forest**, a tree-structured mechanism aligning cognitive modeling with system design for self-reinforcing co-evolution between architecture and implementation.  
+- Implementing **KoRa**, a cognition-enhanced generative agent supporting both responsive and proactive skills through a Cognition–Action pipeline.  
+- Introducing **Kernel**, a meta-cognition meta-agent with Privacy Gate for context-aware masking, system monitoring, and self-evolution capabilities.  
+
+**Main conclusion:**  
+Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior, robust privacy management, and continuous self-improvement, demonstrating the potential of co-constructive cognitive architectures in LLM agents.
+</details>
