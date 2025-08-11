@@ -279,3 +279,7 @@ This paper introduces Galaxy, a cognition-centered IPA framework by:
 **Main conclusion:**  
 Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior, robust privacy management, and continuous self-improvement, demonstrating the potential of co-constructive cognitive architectures in LLM agents.
 </details>
+
+
+# Context Engineering
+
