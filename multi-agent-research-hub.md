@@ -1,6 +1,30 @@
 Useful thoughts and experience about the MAS developing 
 
 
+# Must have
+
+https://arxiv.org/pdf/2503.09501
+<details>
+  <summary>ReMA: Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning – May 27, 2025</summary>
+
+**Tags:** Large Language Models, Meta-thinking, Multi-agent Systems, Reinforcement Learning, Out-of-distribution Generalization, Mathematical Reasoning
+
+This paper introduces **ReMA**, a framework that trains LLMs to “think about thinking” by splitting reasoning into two cooperating agents:
+- A **high-level meta-thinking agent** that plans, monitors, and adjusts reasoning strategies.
+- A **low-level reasoning agent** that executes detailed problem-solving under strategic guidance.
+
+Using **multi-agent reinforcement learning (MARL)** with aligned rewards, ReMA improves exploration efficiency, interpretability, and performance, especially on out-of-distribution (OOD) tasks. The method supports both **single-turn** and **multi-turn** meta-reasoning, with innovations like:
+- **Turn-level ratio clipping** to stabilize multi-turn RL and prevent degenerate outputs.
+- **Parameter sharing** for efficiency without sacrificing coordination quality.
+
+**Key results:**
+- On math reasoning benchmarks, ReMA yields up to **+20% accuracy gains** over baselines (AMC23, Llama3-8B) and strong improvements on challenging OOD datasets (e.g., AIME24: +13.33% for Qwen2.5-7B).
+- On LLM-as-a-Judge tasks, ReMA improves generalization, achieving **+14.23%** over CoT baselines on RewardBench970.
+- Ablations show that meta-thinking boosts low-level generalization, larger LMs adopt richer strategies, and multi-turn setups benefit from parameter sharing.
+
+**Main conclusion:**  
+By explicitly separating strategic oversight and execution in LLM reasoning, ReMA achieves superior accuracy and robustness, offering a scalable pathway for building systems that adapt their problem-solving dynamically while maintaining clarity and control over reasoning steps.
+</details>
 
 https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering 
 <details>
@@ -26,7 +50,7 @@ This article describes how Anthropic built its Research feature using a lead Cla
 With robust orchestration patterns, prompt strategies, evaluation methods, and fault-recovery practices, production-grade multi-agent systems can dramatically enhance complex research tasks—but the gap between prototype and reliable production demands meticulous engineering around tooling, evaluation, and deployment. :contentReference[oaicite:3]{index=3}
 </details>
  
- # Must have
+
 https://arxiv.org/abs/2507.11988
 <details>
   <summary>Aime: Towards Fully-Autonomous Multi-Agent Framework – July 17, 2025</summary>
@@ -43,6 +67,9 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
 
+
+## RAG
+### Graphs
 
 Graph-based AI agent
 https://arxiv.org/pdf/2410.04660
@@ -62,10 +89,6 @@ KGAREVION achieves an average accuracy improvement of **+6.75%** over 15 baselin
 **Main conclusion:**  
 By integrating LLM hypothesis generation with rigorous KG‑based verification and iterative refinement, KGAREVION significantly enhances the precision and reliability of knowledge‑intensive biomedical QA, paving the way for clinical decision support and advanced biomedical research applications. :contentReference[oaicite:6]{index=6}
 </details>
-
-
-## RAG
-### Graphs
 
 
 https://arxiv.org/pdf/2404.16130
