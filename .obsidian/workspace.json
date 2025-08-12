@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "Ключевые слова и идеи для проекта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "Ключевые слова и идеи для проекта"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "14e2ba42b8b81fd1",
   "lastOpenFiles": [
-    "Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
-    "multi-agent-research-hub.md",
-    "Ключевые слова и идеи для проекта.md",
     "Пустое пространство между эмбендингов.md",
     "Цель в LLM + Новый контекст обучения + Забывание.md",
+    "multi-agent-research-hub.md",
+    "Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
+    "Ключевые слова и идеи для проекта.md",
     "Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
     "Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
     "Poems/Многомировая интерпритация.md",
