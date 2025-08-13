@@ -3,6 +3,30 @@ Useful thoughts and experience about the MAS developing
 
 # Must have
 
+
+
+https://arxiv.org/pdf/2508.06659
+<details>
+  <summary>In-Context Reinforcement Learning via Communicative World Models – August 8, 2025</summary>
+
+**Tags:** Reinforcement Learning, In-Context Learning, World Models, Emergent Communication, Zero-Shot Adaptation, Sample Efficiency
+
+This paper introduces **CORAL** (Communicative Representation for Adaptive RL), a framework that decouples world model learning from policy learning by structuring in-context reinforcement learning as a two-agent communication problem:
+- An **Information Agent (IA)**, implemented as a Transformer, is pre-trained to model environment dynamics and rewards, producing concise latent **messages** without directly optimizing for task reward.
+- A **Control Agent (CA)** uses both observations and IA messages to select actions, with its policy optimized solely for task reward.
+- IA training combines **Dynamics Awareness**, **Temporal Coherence**, and a novel **Causal Influence Loss** to ensure messages meaningfully guide CA's policy.
+
+Key contributions include:
+- **Functional separation** of representation learning (IA) and control (CA) for better generalization.
+- **Emergent communicative prior** enabling faster adaptation in unseen sparse-reward environments.
+- **Multi-task pretraining** across diverse environments to avoid overfitting.
+- Empirical validation showing **1.5–5× faster learning** and superior zero-shot performance compared to PPO and conventional world models.
+
+**Main conclusion:**  
+CORAL demonstrates that pre-trained communicative world models can act as powerful contextual priors, accelerating learning and improving generalization in challenging RL settings. By leveraging communication as a structured transfer of environment understanding, the method provides a scalable path toward adaptive, generalist agents—though future work should test in more complex domains, explore structured message formats, and consider communication cost models.
+</details>
+
+
 https://arxiv.org/pdf/2503.09501
 <details>
   <summary>ReMA: Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning – May 27, 2025</summary>

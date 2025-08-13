@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Цели (π,α).md",
+                "file": "multi-agent-research-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Цели (π,α)"
+              "title": "multi-agent-research-hub"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "45050f19c733490a",
   "lastOpenFiles": [
-    "In-Context Reinforcement Learning via Communicative World Models.md",
     "Цели (π,α).md",
+    "In-Context Reinforcement Learning via Communicative World Models.md",
     "Ключевые слова и идеи для проекта.md",
     "Пустое пространство между эмбендингов.md",
     "Цель в LLM + Новый контекст обучения + Забывание.md",
