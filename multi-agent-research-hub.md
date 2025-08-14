@@ -91,7 +91,6 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
 
-
 ## RAG
 ### Graphs
 
