@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
+                "file": "Proactive agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Современные мультиаггентные системы никуда не годятся."
+              "title": "Proactive agents"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 332.5
   },
   "right": {
     "id": "61fdeff63d15ba15",
@@ -214,8 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87c9211320c8b957",
+  "active": "aa054f8f508c3c20",
   "lastOpenFiles": [
+    "📎 Attachments/Pasted image 20250821010349.png",
+    "Attachments",
+    "Proactive agents.md",
+    "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Learning/Technology stack.md",
     "Цель в LLM + Новый контекст обучения + Забывание.md",
     "📎 Attachments/Pasted image 20250819151511.png",
@@ -224,8 +228,6 @@
     "📎 Attachments/Pasted image 20250819145833.png",
     "multi-agent-research-hub.md",
     "Learning",
-    "Proactive agents.md",
-    "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Duolingo.md",
     "Ключевые слова и идеи для проекта.md",
     "Пустое пространство между эмбендингов.md",

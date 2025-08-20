@@ -9,3 +9,8 @@ https://github.com/moe1047/quiz-buddy-agent
 ➕ Мини курс на хабре по LangGraph. Библиотеке для работы с графами для построениня агентов. Говорят, очень годно. 
 
 https://habr.com/ru/companies/amvera/articles/933460/
+
+
+
+# Challenges
+![[Pasted image 20250821010349.png]]
