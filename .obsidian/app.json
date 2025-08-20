@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true
 }

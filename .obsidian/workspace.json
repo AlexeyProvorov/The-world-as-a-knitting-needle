@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology stack.md",
+                "file": "Learning/Technology stack.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,12 +53,14 @@
             "id": "87c9211320c8b957",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Современные мультиаггентные системы никуда не годятся."
             }
           }
         ],
@@ -214,30 +216,31 @@
   },
   "active": "87c9211320c8b957",
   "lastOpenFiles": [
-    "multi-agent-research-hub.md",
-    "Technology stack.md",
-    "Pasted image 20250819151511.png",
-    "Pasted image 20250819145833.png",
-    "Learning",
-    "Pasted image 20250819142613.png",
-    "Proactive agents.md",
+    "Learning/Technology stack.md",
     "Цель в LLM + Новый контекст обучения + Забывание.md",
+    "📎 Attachments/Pasted image 20250819151511.png",
+    "📎 Attachments",
+    "📎 Attachments/Pasted image 20250819142613.png",
+    "📎 Attachments/Pasted image 20250819145833.png",
+    "multi-agent-research-hub.md",
+    "Learning",
+    "Proactive agents.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Duolingo.md",
     "Ключевые слова и идеи для проекта.md",
     "Пустое пространство между эмбендингов.md",
-    "Arxiv/In-Context Reinforcement Learning via Communicative World Models.md",
+    "🔬 Arxiv/In-Context Reinforcement Learning via Communicative World Models.md",
     "Цели (π,α).md",
-    "Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
-    "Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
-    "Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
+    "🔬 Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
+    "🔬 Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
+    "🔬 Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
     "Poems/Многомировая интерпритация.md",
     "Poems/Бездомный пёс Нови Сада.md",
-    "Arxiv/Mimicking or Reasoning.md",
-    "Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",
-    "Arxiv/The Collapse of AI Reasoning (by Apple).md",
-    "Arxiv/The simulation.md",
-    "Arxiv/Improving LLMs Generalized Reasoning Abilities by Graph Problems.md",
+    "🔬 Arxiv/Mimicking or Reasoning.md",
+    "🔬 Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",
+    "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
+    "🔬 Arxiv/The simulation.md",
+    "🔬 Arxiv/Improving LLMs Generalized Reasoning Abilities by Graph Problems.md",
     "Thoughts",
     "blog ideas.md",
     "The Illusion of Thinking.md",
@@ -245,7 +248,7 @@
     "The world.md",
     "Poems/1..md",
     "Poems",
-    "Arxiv",
+    "🔬 Arxiv",
     "Untitled 1",
     "Duolingo tests"
   ]
