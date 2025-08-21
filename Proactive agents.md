@@ -14,3 +14,6 @@ https://habr.com/ru/companies/amvera/articles/933460/
 
 # Challenges
 ![[Pasted image 20250821010349.png]]
+
+
+![[Pasted image 20250821015457.png]]
