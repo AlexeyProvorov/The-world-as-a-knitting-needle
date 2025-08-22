@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Technology stack.md",
+                "file": "Ключевые слова и идеи для проекта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology stack"
+              "title": "Ключевые слова и идеи для проекта"
             }
           }
         ]
@@ -173,12 +173,12 @@
   },
   "active": "87c9211320c8b957",
   "lastOpenFiles": [
+    "Learning/Technology stack.md",
     "Proactive agents.md",
     "📎 Attachments/Pasted image 20250821015457.png",
     "📎 Attachments/Pasted image 20250821010349.png",
     "Attachments",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
-    "Learning/Technology stack.md",
     "Цель в LLM + Новый контекст обучения + Забывание.md",
     "📎 Attachments/Pasted image 20250819151511.png",
     "📎 Attachments",
