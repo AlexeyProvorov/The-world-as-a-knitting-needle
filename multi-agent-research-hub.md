@@ -91,8 +91,23 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
 
-## RAG
-### Graphs
+## RAG, Graphs, Fine-tuning
+
+<details>
+  <summary>RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation – May 6, 2025</summary>
+
+**Tags:** Large Language Models, Retrieval-Augmented Generation, Model Context Protocol, Tool Selection, Prompt Optimization, AI Agents
+
+This paper introduces **RAG-MCP**, a framework that combines Retrieval-Augmented Generation with the Model Context Protocol to address the challenge of **prompt bloat** when LLMs interact with large toolsets:
+- Instead of feeding descriptions of all tools into the prompt, RAG-MCP uses **semantic retrieval** to dynamically select only the most relevant tools for a given query.  
+- This reduces prompt size by more than half, alleviates decision complexity, and significantly improves tool selection accuracy.  
+- Experiments (including an MCP stress test) show that RAG-MCP **triples accuracy** compared to baseline methods (43.13% vs. 13.62%) while halving prompt token usage.  
+- The approach scales easily: new tools can be added to the retriever’s index without retraining the LLM, enabling extensibility and real-time adaptability.  
+
+**Main conclusion:**  
+RAG-MCP demonstrates that retrieval-based filtering of tool descriptions is a powerful way to maintain accuracy and efficiency as the number of available APIs grows. It lays a foundation for scalable and reliable LLM agents capable of interfacing with thousands of services, though future work must address retrieval precision at extreme scale and multi-tool workflows.
+</details>
+
 
 Graph-based AI agent
 https://arxiv.org/pdf/2410.04660
