@@ -94,6 +94,22 @@ Aime significantly outperforms conventional multi‑agent systems—achieving ne
 ## RAG, Graphs, Fine-tuning
 
 
+https://arxiv.org/pdf/2401.15884
+<details>
+  <summary>Corrective Retrieval Augmented Generation (CRAG) – October 7, 2024</summary>
+
+**Tags:** Large Language Models, Retrieval-Augmented Generation, Hallucination Mitigation, Web Search, Knowledge Refinement
+
+This paper introduces **CRAG**, a corrective framework for RAG systems that strengthens robustness against irrelevant or misleading retrieval results by:
+- Designing a **lightweight retrieval evaluator** (T5-based) that scores document relevance and triggers corrective actions: **Correct**, **Incorrect**, or **Ambiguous**.  
+- Employing a **decompose–filter–recompose algorithm** to refine retrieved documents into key knowledge fragments, reducing noise and redundancy.  
+- Integrating **web search as fallback knowledge**, ensuring the system “knows what it doesn’t know” and avoids hallucinations when internal corpora are insufficient.  
+- Demonstrating strong improvements across four benchmarks (PopQA, Biography, PubHealth, ARC-Challenge), with gains up to **+37% FactScore** on long-form biography tasks and substantial robustness over Self-RAG baselines.  
+
+**Main conclusion:**  
+CRAG represents a **plug-and-play corrective layer for RAG** that makes LLMs more reliable by filtering noise, correcting faulty retrievals, and selectively enriching knowledge via web search. It marks a step toward self-correcting AI systems that balance generative fluency with factual trustworthiness, though future work is needed to remove reliance on external evaluators and better manage web-source reliability.
+</details>
+
 https://arxiv.org/pdf/2501.16214
 <details>
   <summary>Provence: efficient and robust context pruning for retrieval-augmented generation – January 2025</summary>
