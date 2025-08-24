@@ -5,6 +5,23 @@ Useful thoughts and experience about the MAS developing
 
 
 
+https://arxiv.org/pdf/2508.10146
+<details>
+  <summary>Agentic AI Frameworks: Architectures, Protocols, and Design Challenges – August 2025</summary>
+
+**Tags:** Agentic AI, Multi-Agent Systems, Communication Protocols, Service-Oriented Architecture, LLM Frameworks
+
+This paper provides a comprehensive survey of **Agentic AI**—LLM-powered autonomous agents that plan, reason, collaborate, and adapt in open environments. The contributions include:
+- Tracing the **evolution of agents** from classical BDI models to modern LLM-driven entities with integrated memory, tool use, and dynamic coordination.  
+- Systematically comparing **frameworks** (AutoGen, CrewAI, MetaGPT, LangGraph, Semantic Kernel, Agno, Google ADK, LlamaIndex) on memory design, orchestration, guardrails, and scalability.  
+- Analyzing emerging **communication protocols** (MCP, A2A, ANP, ACP, Agora), highlighting advances in interoperability but also fragmentation and the lack of standardized service contracts.  
+- Positioning Agentic AI within the lens of **service-oriented computing** (WSDL, BPEL, WS-Policy, WS-Agreement), arguing for contracts, discovery, and composition mechanisms to enable “Agent-as-a-Service.”  
+- Identifying key **challenges**: rigid roles, missing runtime discovery, insecure code execution, fragmented abstractions, and the absence of standardized benchmarks.  
+
+**Main conclusion:**  
+Agentic AI is the natural successor to LLMs, shifting toward scalable ecosystems of collaborating agents. The field urgently needs **unified protocols, memory standards, modular guardrails, and interoperability layers** akin to those that matured web services. Without these, agent frameworks remain siloed and fragile; with them, they can underpin the next generation of adaptive, service-oriented intelligent systems.  
+</details>
+
 https://arxiv.org/pdf/2508.06659
 <details>
   <summary>In-Context Reinforcement Learning via Communicative World Models – August 8, 2025</summary>
@@ -25,7 +42,6 @@ Key contributions include:
 **Main conclusion:**  
 CORAL demonstrates that pre-trained communicative world models can act as powerful contextual priors, accelerating learning and improving generalization in challenging RL settings. By leveraging communication as a structured transfer of environment understanding, the method provides a scalable path toward adaptive, generalist agents—though future work should test in more complex domains, explore structured message formats, and consider communication cost models.
 </details>
-
 
 https://arxiv.org/pdf/2503.09501
 <details>
@@ -73,9 +89,9 @@ This article describes how Anthropic built its Research feature using a lead Cla
 **Main conclusion:**  
 With robust orchestration patterns, prompt strategies, evaluation methods, and fault-recovery practices, production-grade multi-agent systems can dramatically enhance complex research tasks—but the gap between prototype and reliable production demands meticulous engineering around tooling, evaluation, and deployment. :contentReference[oaicite:3]{index=3}
 </details>
- 
 
-https://arxiv.org/abs/2507.11988 + [Сode on Google Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/tutorials/Corrective-RAG-with_Langgraph/CRAG_with_Langgraph.ipynb#scrollTo=gUlaOeBxpIxD)
+
+https://arxiv.org/abs/2507.11988 
 <details>
   <summary>Aime: Towards Fully-Autonomous Multi-Agent Framework – July 17, 2025</summary>
 
@@ -94,7 +110,7 @@ Aime significantly outperforms conventional multi‑agent systems—achieving ne
 ## RAG, Graphs, Fine-tuning
 
 
-https://arxiv.org/pdf/2401.15884
+https://arxiv.org/pdf/2401.15884 + [Сode on Google Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/tutorials/Corrective-RAG-with_Langgraph/CRAG_with_Langgraph.ipynb#scrollTo=gUlaOeBxpIxD)
 <details>
   <summary>Corrective Retrieval Augmented Generation (CRAG) – October 7, 2024</summary>
 
