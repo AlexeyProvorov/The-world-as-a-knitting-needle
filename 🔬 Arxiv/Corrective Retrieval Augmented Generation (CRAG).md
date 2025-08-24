@@ -1,3 +1,6 @@
+Линк на код в колаб с примером->
+https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/tutorials/Corrective-RAG-with_Langgraph/CRAG_with_Langgraph.ipynb#scrollTo=o63KVQsIuYAT
+
 Анализ “Corrective Retrieval Augmented Generation (CRAG)”
 ---
 

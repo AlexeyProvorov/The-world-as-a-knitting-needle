@@ -75,7 +75,7 @@ With robust orchestration patterns, prompt strategies, evaluation methods, and f
 </details>
  
 
-https://arxiv.org/abs/2507.11988
+https://arxiv.org/abs/2507.11988 + [Сode on Google Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/tutorials/Corrective-RAG-with_Langgraph/CRAG_with_Langgraph.ipynb#scrollTo=gUlaOeBxpIxD)
 <details>
   <summary>Aime: Towards Fully-Autonomous Multi-Agent Framework – July 17, 2025</summary>
 

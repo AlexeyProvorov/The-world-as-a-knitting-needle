@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "Corrective Retrieval Augmented Generation (CRAG)"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "2acf7b75f70bb95a",
   "lastOpenFiles": [
-    "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
     "multi-agent-research-hub.md",
+    "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
+    "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
+    "🔬 Arxiv/The simulation.md",
     "🔬 Arxiv/Provence. efficient and robust context pruning for retrieval-augmented generation.md",
     "🔬 Arxiv/RAG-MCP Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation.md",
     "Ключевые слова и идеи для проекта.md",
@@ -217,8 +219,6 @@
     "🔬 Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
     "Poems/Многомировая интерпритация.md",
     "Poems/Бездомный пёс Нови Сада.md",
-    "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
-    "🔬 Arxiv/The simulation.md",
     "Thoughts",
     "blog ideas.md",
     "The Illusion of Thinking.md",
