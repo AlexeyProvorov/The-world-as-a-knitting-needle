@@ -93,6 +93,25 @@ Aime significantly outperforms conventional multi‑agent systems—achieving ne
 
 ## RAG, Graphs, Fine-tuning
 
+
+https://arxiv.org/pdf/2501.16214
+<details>
+  <summary>Provence: efficient and robust context pruning for retrieval-augmented generation – January 2025</summary>
+
+**Tags:** Retrieval-Augmented Generation, Context Pruning, Reranking, Efficiency, Robustness
+
+This paper introduces **Provence**, a lightweight method that unifies reranking and context pruning in retrieval-augmented generation (RAG). Its core contributions include:  
+- Formulating pruning as **sequence labeling** at the sentence level, allowing dynamic removal of irrelevant sentences instead of fixed-size cuts.  
+- Leveraging **silver labels** from LLaMA-3-8B, which answers questions while citing supporting sentences, enabling large-scale supervised training without costly human annotation.  
+- **Merging pruning with reranking**, so the same model both orders passages and prunes them, making the operation nearly cost-free in computation.  
+- Demonstrating **robustness**: Provence adapts flexibly (keeping 0–all sentences), works across domains (Wikipedia, biomedical, educational, news), and maintains high quality even at 50–80% context reduction.  
+- Achieving **practical efficiency**: up to 1.2–2× faster generation and 20× lower overhead than abstractive pruning methods, while often improving answer quality by filtering noise.  
+
+**Main conclusion:**  
+Provence shows that sentence-level pruning, unified with reranking, is a practical and domain-agnostic way to make RAG systems faster, cheaper, and sometimes even more accurate. It stands out as a balanced, real-world-ready solution compared to prior token-level or abstractive pruning methods, though current limitations include single-passage QA focus, English-only training, and weaker performance on edge-position sentences (“needle in a haystack” cases).
+</details>
+
+https://arxiv.org/pdf/2505.03275v1
 <details>
   <summary>RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation – May 6, 2025</summary>
 
@@ -238,6 +257,7 @@ This paper introduces a new paradigm—**Graph Problem Reasoning (GPR)**—as a 
 **Main conclusion:**  
 By using graph-based problems as a reasoning substrate, LLMs become not only stronger in graph domains but significantly more **generalized and robust** reasoners across mathematics, logic, code, and multi-hop QA—marking a shift from domain-specialized to **universally capable** AI models.
 </details>
+
 
 ## Approaches
 ### Anthropic

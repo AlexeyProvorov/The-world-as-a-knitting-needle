@@ -11,10 +11,14 @@
             "id": "8964281c169c5e77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "multi-agent-research-hub.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "multi-agent-research-hub"
             }
           }
         ]
@@ -169,6 +173,7 @@
   },
   "active": "8964281c169c5e77",
   "lastOpenFiles": [
+    "🔬 Arxiv/Provence. efficient and robust context pruning for retrieval-augmented generation.md",
     "🔬 Arxiv/RAG-MCP Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation.md",
     "multi-agent-research-hub.md",
     "Ключевые слова и идеи для проекта.md",
@@ -203,7 +208,6 @@
     "The Illusion of Thinking.md",
     "Think-and-Execute.md",
     "The world.md",
-    "Poems/1..md",
     "Poems",
     "🔬 Arxiv",
     "Untitled 1",
