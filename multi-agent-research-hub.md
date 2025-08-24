@@ -1,9 +1,6 @@
 Useful thoughts and experience about the MAS developing 
 
-
 # Must have
-
-
 
 https://arxiv.org/pdf/2508.10146
 <details>
