@@ -48,9 +48,35 @@
               "icon": "lucide-file",
               "title": "Цель в LLM + Новый контекст обучения + Забывание"
             }
+          },
+          {
+            "id": "8df7259399d69f10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "14dd6f0d84cb7fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brand Impact.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brand Impact"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,8 +226,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12fa90d649843ee1",
+  "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
+    "Brand Impact.md",
     "Цели (π,α).md",
     "Ключевые слова и идеи для проекта.md",
     "Proactive agents.md",
@@ -236,7 +263,6 @@
     "Poems/Бездомный пёс Нови Сада.md",
     "Thoughts",
     "blog ideas.md",
-    "The Illusion of Thinking.md",
     "Poems",
     "🔬 Arxiv",
     "Untitled 1",
