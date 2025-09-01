@@ -393,3 +393,32 @@ Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior
 
 # Context Engineering
 
+
+
+
+# Others
+
+
+https://arxiv.org/pdf/2508.19227
+<details>
+  <summary>Generative Interfaces for Language Models – August 26, 2025</summary>
+
+**Tags:** Large Language Models, Human-AI Interaction, Generative Interfaces, User Experience, Cognitive Offloading
+
+This paper introduces a new paradigm called **Generative Interfaces (GenUI)**, where LLMs move beyond static chat to dynamically generate **interactive user interfaces** tailored to queries. Instead of long text outputs, models create adaptive tools such as learning simulators, analysis dashboards, or workflow managers.
+
+Key contributions:
+- Proposes **structured interface-specific representations** (interaction flows + finite state machines) to formally map user queries into UI logic.  
+- Develops a **generation pipeline** that produces executable HTML/JS interfaces using reusable components and web retrieval.  
+- Implements **iterative refinement with adaptive reward functions**, where LLMs evaluate, score, and improve interfaces until high-quality results are achieved.  
+- Introduces **UIX benchmark** and a multi-dimensional evaluation (functional, interactive, emotional), validated through large-scale human and LLM-based studies.  
+
+**Findings:**
+- GenUI outperforms traditional conversational UIs in **70–84% of cases**, especially for information-dense and structured tasks.  
+- Strongest gains appear in **data analysis, visualization, and business strategy**, where visual structure and interactivity reduce cognitive load.  
+- Users cite **cognitive offloading**, **professional visual structure**, and **greater trustworthiness** as main drivers of preference.  
+- Limitations include frontend-only support, iteration latency, and occasional over-generation of interfaces for simple queries.  
+
+**Main conclusion:**  
+Generative Interfaces mark a shift from LLMs as “textual copilots” to **designers of adaptive digital environments**. By combining structured UI logic with iterative refinement, GenUI significantly enhances usability, clarity, and user satisfaction, laying groundwork for future multimodal, domain-specific, and collaborative AI systems.
+</details>
