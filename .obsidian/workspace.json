@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Цели (π,α).md",
+                "file": "multi-agent-research-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Цели (π,α)"
+              "title": "multi-agent-research-hub"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
-    "Ключевые слова и идеи для проекта.md",
     "Цели (π,α).md",
+    "Ключевые слова и идеи для проекта.md",
     "Thoughts/Proactive agents.md",
     "Brand Impact.md",
     "Thoughts/Пустое пространство между эмбендингов.md",
