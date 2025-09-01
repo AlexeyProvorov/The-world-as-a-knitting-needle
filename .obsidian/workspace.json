@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ключевые слова и идеи для проекта.md",
+                "file": "Цели (π,α).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ключевые слова и идеи для проекта"
+              "title": "Цели (π,α)"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
+    "Ключевые слова и идеи для проекта.md",
     "Цели (π,α).md",
     "Thoughts/Proactive agents.md",
     "Brand Impact.md",
-    "Ключевые слова и идеи для проекта.md",
     "Thoughts/Пустое пространство между эмбендингов.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Duolingo.md",
