@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Technology stack.md",
+                "file": "multi-agent-research-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology stack"
+              "title": "multi-agent-research-hub"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
+    "Duolingo.md",
+    "Learning/Technology stack.md",
     "multi-agent-research-hub.md",
     "Цели (π,α).md",
     "Ключевые слова и идеи для проекта.md",
@@ -180,9 +182,7 @@
     "Brand Impact.md",
     "Thoughts/Пустое пространство между эмбендингов.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
-    "Duolingo.md",
     "Thoughts/Цель в LLM + Новый контекст обучения + Забывание.md",
-    "Learning/Technology stack.md",
     "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
     "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
     "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",

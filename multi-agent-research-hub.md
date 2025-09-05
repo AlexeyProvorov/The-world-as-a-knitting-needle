@@ -394,8 +394,6 @@ Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior
 # Context Engineering
 
 
-
-
 # Others
 
 
@@ -422,3 +420,5 @@ Key contributions:
 **Main conclusion:**  
 Generative Interfaces mark a shift from LLMs as “textual copilots” to **designers of adaptive digital environments**. By combining structured UI logic with iterative refinement, GenUI significantly enhances usability, clarity, and user satisfaction, laying groundwork for future multimodal, domain-specific, and collaborative AI systems.
 </details>
+
+
