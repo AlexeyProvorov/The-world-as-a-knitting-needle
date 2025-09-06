@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "🔬 Arxiv/The simulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "The simulation"
             }
           }
         ]
@@ -173,9 +173,9 @@
   },
   "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
+    "multi-agent-research-hub.md",
     "Duolingo.md",
     "Learning/Technology stack.md",
-    "multi-agent-research-hub.md",
     "Цели (π,α).md",
     "Ключевые слова и идеи для проекта.md",
     "Thoughts/Proactive agents.md",
