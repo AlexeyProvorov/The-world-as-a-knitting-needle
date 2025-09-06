@@ -310,6 +310,24 @@ https://arxiv.org/pdf/2501.12948
 ## MCP
 https://github.com/modelcontextprotocol/servers
 
+https://arxiv.org/pdf/2508.15760
+<details>
+  <summary>LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries – August 21, 2025</summary>
+
+**Tags:** AI Agents, Model Context Protocol, Tool Orchestration, Benchmarks, Error Analysis, Token Efficiency
+
+This paper introduces **LiveMCP-101**, a benchmark of 101 complex real-world tasks designed to evaluate how AI agents use the **Model Context Protocol (MCP)** for multi-step reasoning and tool integration. Key contributions include:  
+- A dataset of queries (easy, medium, hard), refined by LLM rewriting and human review, requiring web search, file operations, mathematical reasoning, and data analysis.  
+- A **dual-execution evaluation method**: a reference agent follows a validated ground-truth execution plan, while test agents solve tasks autonomously, enabling robust comparison under dynamic tool outputs.  
+- Experimental results showing that **even frontier models like GPT-5 succeed in fewer than 60% of tasks** (39% on hard tier), while open-source models perform significantly worse.  
+- Ablation studies on iteration limits and MCP server pools, revealing clear efficiency ceilings and higher sensitivity to distractors in weaker models.  
+- A detailed **failure analysis** across seven categories (planning, parameter errors, output handling), with semantic errors dominating even strong models.  
+
+**Main conclusion:**  
+LiveMCP-101 demonstrates that current LLM-based agents remain far from reliable autonomous tool users. They face persistent issues with dynamic environments, robust planning, and efficient token use. The benchmark establishes a new rigorous standard and highlights clear directions for advancing reasoning, orchestration, and error recovery in the next generation of AI agents.
+</details>
+
+
 
 
 ## Test models 
