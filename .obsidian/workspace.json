@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔬 Arxiv/The simulation.md",
+                "file": "multi-agent-research-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The simulation"
+              "title": "multi-agent-research-hub"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "14dd6f0d84cb7fd8",
   "lastOpenFiles": [
+    "🔬 Arxiv/The simulation.md",
     "multi-agent-research-hub.md",
     "Duolingo.md",
     "Learning/Technology stack.md",
@@ -186,7 +187,6 @@
     "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
     "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
     "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
-    "🔬 Arxiv/The simulation.md",
     "🔬 Arxiv/Provence. efficient and robust context pruning for retrieval-augmented generation.md",
     "🔬 Arxiv/RAG-MCP Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation.md",
     "🔬 Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",

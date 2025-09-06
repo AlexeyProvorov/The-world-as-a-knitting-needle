@@ -421,4 +421,19 @@ Key contributions:
 Generative Interfaces mark a shift from LLMs as “textual copilots” to **designers of adaptive digital environments**. By combining structured UI logic with iterative refinement, GenUI significantly enhances usability, clarity, and user satisfaction, laying groundwork for future multimodal, domain-specific, and collaborative AI systems.
 </details>
 
+https://arxiv.org/pdf/2508.16876v1
+<details>
+  <summary>Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling – August 23, 2025</summary>
 
+**Tags:** Dialogue Systems, Reinforcement Learning, World Models, User Belief Modeling, Empathetic AI  
+
+This paper introduces **DreamCUB**, a framework that combines model-based reinforcement learning (MBRL) with user belief modeling to enhance dialogue systems:  
+- Defines a **Dialogue World Model (DWM)** capable of predicting user beliefs (emotion, sentiment, intention), next utterances, and rewards, extending beyond observable text.  
+- Frames dialogues as a **POMDP**, where hidden psychological states are modeled via an information bottleneck, improving policy optimization.  
+- Demonstrates **state-of-the-art results** on sentiment/emotion classification, query prediction, and dialogue generation across datasets like DailyDialog, ESConv, and EmpatheticDialogues.  
+- Shows **strong generalization** to out-of-domain empathetic conversations and achieves the highest scores in **human evaluations** of fluency, sensitivity, and satisfaction.  
+- Ablation studies confirm that incorporating user beliefs into both the world model and reward model is critical for optimal performance.  
+
+**Main conclusion:**  
+DreamCUB represents a significant step toward emotionally intelligent dialogue agents. By enabling systems to imagine future dialogue trajectories and reason about users’ emotional dynamics, it balances response quality with empathy and robustness. While limited to a subset of belief features (emotion, sentiment, intention), this approach opens pathways toward more human-centric and generalist AI assistants.  
+</details>
