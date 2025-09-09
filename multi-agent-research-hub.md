@@ -104,6 +104,7 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
 
+
 ## RAG, Graphs, Fine-tuning
 
 
@@ -294,6 +295,32 @@ Important articles
 https://www.anthropic.com/engineering/built-multi-agent-research-system
 https://www.anthropic.com/engineering/building-effective-agents
 https://www.anthropic.com/news/model-context-protocol\
+
+
+
+https://arxiv.org/pdf/2509.00189
+<details>
+  <summary>HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution – Aug 29, 2025</summary>
+
+**Tags:** Multi-Agent Systems, Large Language Models, Semantic-Topological Evolution, Textual Gradients, Adaptive Intelligence  
+
+This paper introduces **HiVA**, a novel framework for multi-agent systems that unifies semantic (what agents do) and topological (how agents interact) evolution through the **STEV algorithm**. Unlike static workflows or reactive loops, HiVA enables agents to evolve both behavior and collaboration structure from a single agent into a self-organized hierarchy.  
+
+Key innovations:  
+- **Semantic-Topological Evolution (STEV):** joint optimization of prompts, tools, and network structure using **textual gradients** derived from environmental feedback.  
+- **Dynamic routing via Bayesian bandits (KABB):** selects task-relevant subgraphs of agents by balancing past performance, task alignment, and synergy.  
+- **Hierarchical memory:** distributed across agent parameters, connection weights, and overall topology, enabling retention of collaboration patterns.  
+- **Cost-efficient adaptability:** HiVA improves accuracy by 5–10% across tasks (QA, coding, reasoning, complex environments) while reducing LLM usage compared to baselines.  
+
+**Experimental results:**  
+- Outperforms ReAct, AutoGPT, MaAS, and others in multi-hop QA (+18.3%), program synthesis (+6.2%), and agentic environments (highest cost-efficiency score).  
+- Ablation shows both **Semantic Evolution (SEV)** and **Topological Evolution (TEV)** are critical; removing either reduces performance by 7–11%.  
+- Weakness: struggles in math tasks requiring strict logical consistency due to conflicts in agent verification.  
+
+**Main conclusion:**  
+HiVA demonstrates that **co-evolving agent semantics and topology is essential** for scalable, adaptive intelligence. By self-organizing into specialized, interconnected roles, HiVA systems achieve higher accuracy, efficiency, and robustness. This framework marks a step toward **self-improving, general-purpose agentic AI**, though challenges remain in conflict resolution and handling ambiguous feedback.  
+</details>
+
 
 
 ## Architectures LLM

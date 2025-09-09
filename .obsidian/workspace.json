@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "multi-agent-research-hub"
             }
+          },
+          {
+            "id": "3f359ee874070234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔬 Arxiv/HiVA. Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HiVA. Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14dd6f0d84cb7fd8",
+  "active": "3f359ee874070234",
   "lastOpenFiles": [
-    "🔬 Arxiv/The simulation.md",
+    "🔬 Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
+    "🔬 Arxiv/HiVA. Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution.md",
     "multi-agent-research-hub.md",
+    "🔬 Arxiv/The simulation.md",
     "Duolingo.md",
     "Learning/Technology stack.md",
     "Цели (π,α).md",
@@ -202,12 +219,10 @@
     "📎 Attachments/Pasted image 20250819145833.png",
     "Learning",
     "🔬 Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
-    "🔬 Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
     "🔬 Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
     "Poems/Многомировая интерпритация.md",
     "Poems/Бездомный пёс Нови Сада.md",
     "Thoughts",
-    "blog ideas.md",
     "Poems",
     "🔬 Arxiv",
     "Untitled 1",
