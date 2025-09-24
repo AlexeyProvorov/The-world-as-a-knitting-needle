@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "Duolingo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "Duolingo"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "3f359ee874070234",
   "lastOpenFiles": [
-    "Brand Impact.md",
     "multi-agent-research-hub.md",
+    "Brand Impact.md",
     "📎 Attachments/Brand Impact Competitive landscape.pdf",
     "Duolingo.md",
     "Цели (π,α).md",

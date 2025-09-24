@@ -108,3 +108,5 @@ As a summery, I believe, that you can find a job without a degree. But, unfortun
 But at least you will be happy that you have fulfilled your goal, and overcame this way by your own. 
 In conclusion, I want to believe in yourself and prove to everyone that you don't need a degree in order to be the best. 
 
+
+11. My thoughts about the world. Practice and theories. 
