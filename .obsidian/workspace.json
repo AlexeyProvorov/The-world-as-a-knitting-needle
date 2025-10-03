@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ключевые слова и идеи для проекта"
             }
+          },
+          {
+            "id": "4762465dca05d04c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f359ee874070234",
+  "active": "4762465dca05d04c",
   "lastOpenFiles": [
     "Цели (π,α).md",
     "Duolingo.md",
