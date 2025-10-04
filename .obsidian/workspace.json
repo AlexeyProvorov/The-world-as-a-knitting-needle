@@ -25,12 +25,14 @@
             "id": "4762465dca05d04c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "multi-agent-research-hub.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "multi-agent-research-hub"
             }
           }
         ],
@@ -186,9 +188,15 @@
   },
   "active": "4762465dca05d04c",
   "lastOpenFiles": [
+    "multi-agent-research-hub.md",
+    "Thoughts/Пустое пространство между эмбендингов.md",
+    "Thoughts/Proactive agents.md",
+    "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
+    "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
+    "📎 Attachments/Pasted image 20250819145833.png",
+    "📎 Attachments/Pasted image 20250819142613.png",
     "Цели (π,α).md",
     "Duolingo.md",
-    "multi-agent-research-hub.md",
     "Brand Impact.md",
     "📎 Attachments/Brand Impact Competitive landscape.pdf",
     "Ключевые слова и идеи для проекта.md",
@@ -196,12 +204,8 @@
     "🔬 Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
     "🔬 Arxiv/The simulation.md",
     "Learning/Technology stack.md",
-    "Thoughts/Proactive agents.md",
-    "Thoughts/Пустое пространство между эмбендингов.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Thoughts/Цель в LLM + Новый контекст обучения + Забывание.md",
-    "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
-    "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
     "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
     "🔬 Arxiv/Provence. efficient and robust context pruning for retrieval-augmented generation.md",
     "🔬 Arxiv/RAG-MCP Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation.md",
@@ -214,8 +218,6 @@
     "Attachments",
     "📎 Attachments/Pasted image 20250819151511.png",
     "📎 Attachments",
-    "📎 Attachments/Pasted image 20250819142613.png",
-    "📎 Attachments/Pasted image 20250819145833.png",
     "Learning",
     "🔬 Arxiv/ReMA Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning.md",
     "🔬 Arxiv/NEW Agentic Web. NO Apps, NO Ad Revenues.md",
