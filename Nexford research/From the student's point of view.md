@@ -22,4 +22,4 @@ Motivation for students divided into several parts.
 - I'm afraid to be estimated and want just to keep my education deep and effective now
 - My mood and judgments at the moment are not stable and I can quickly shift from uncertainty or even insecurity to overconfidence depending on situation. 
 - So I can feel impostor syndrome from time to time
-- I want to start the next stage later rather than earlier  
+- I want to start the next stage later rather than earlier
