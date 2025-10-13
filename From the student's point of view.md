@@ -4,8 +4,11 @@ Motivation for students divided into several parts.
 ## Global 
 - Why I need to get this particular degree?
 - What is my future profession/specialization?
-
-
+- Necessity to ensure a fun and stable position in the future
+- Feel important and in demand
+- Keep communication with peers
+- My role should be consistant with
+- 
 
 ## Middle
 - Why is this course important for me and how it helps me to go ahead
