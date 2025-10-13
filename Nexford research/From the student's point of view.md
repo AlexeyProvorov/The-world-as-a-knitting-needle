@@ -23,3 +23,13 @@ Motivation for students divided into several parts.
 - My mood and judgments at the moment are not stable and I can quickly shift from uncertainty or even insecurity to overconfidence depending on situation. 
 - So I can feel impostor syndrome from time to time
 - I want to start the next stage later rather than earlier
+
+
+## Advantages:
+- Online program 
+- Tests without strong examination
+- Interesting tasks from time to time
+- Clear steps. Can see step by step
+
+## Disadventages:
+- Task not about my area. If they said to create a word-format research about local health, I need to follow instructions without my agreement with this question
