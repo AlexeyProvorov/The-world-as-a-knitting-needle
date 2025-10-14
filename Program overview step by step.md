@@ -20,4 +20,3 @@
 (+) No examinators, so I feel good about doing the task and using AI throughout my own way
 
 (-) The main task limited by "local health" topic. I would like to do different research, related with my own aims or values now
-
