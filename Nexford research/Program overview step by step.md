@@ -20,3 +20,11 @@
 (+) No examinators, so I feel good about doing the task and using AI throughout my own way
 
 (-) The main task limited by "local health" topic. I would like to do different research, related with my own aims or values now
+
+
+## Module 2:
+
+(+) Links to other websites or information is super crucial and I really like it. I feel, that I have a possibility to embrace the entire internet. Like someone has already chosen the best information for me. 
+
+
+
