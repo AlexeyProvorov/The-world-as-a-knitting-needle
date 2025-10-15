@@ -25,6 +25,8 @@
 ## Module 2:
 
 (+) Links to other websites or information is super crucial and I really like it. I feel, that I have a possibility to embrace the entire internet. Like someone has already chosen the best information for me. 
+(+) Useful methods
+![[Pasted image 20251014165227.png]]
 
 
 
