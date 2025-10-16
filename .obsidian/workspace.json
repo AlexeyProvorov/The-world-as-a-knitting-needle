@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexford research/Program overview step by step.md",
+                "file": "multi-agent-research-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Program overview step by step"
+              "title": "multi-agent-research-hub"
             }
           }
         ],
@@ -202,10 +202,10 @@
   },
   "active": "7879c7ba1676c0c3",
   "lastOpenFiles": [
+    "Nexford research/Program overview step by step.md",
     "📎 Attachments/Pasted image 20251014165227.png",
     "📎 Attachments/Pasted image 20251014165142.png",
     "Key of my projects.md",
-    "Nexford research/Program overview step by step.md",
     "Nexford research/From the student's point of view.md",
     "multi-agent-research-hub.md",
     "Duolingo.md",
