@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ключевые слова и идеи для проекта.md",
+                "file": "MAS project/Ключевые слова и идеи для проекта.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,13 +202,19 @@
   },
   "active": "7879c7ba1676c0c3",
   "lastOpenFiles": [
-    "Key of my projects.md",
     "multi-agent-research-hub.md",
+    "Key of my projects.md",
+    "Brand Impact.md",
+    "Duolingo.md",
+    "Цели (π,α).md",
+    "MAS project/Ключевые слова и идеи для проекта.md",
+    "MAS project/Technology stack.md",
+    "MAS project",
+    "Untitled.md",
     "Nexford research/Program overview step by step.md",
     "📎 Attachments/Pasted image 20251014165227.png",
     "📎 Attachments/Pasted image 20251014165142.png",
     "Nexford research/From the student's point of view.md",
-    "Duolingo.md",
     "📎 Attachments/Pasted image 20251013121132.png",
     "📎 Attachments/Pasted image 20251013123736.png",
     "📎 Attachments/Pasted image 20251013121125.png",
@@ -219,14 +225,10 @@
     "🔬 Arxiv/Corrective Retrieval Augmented Generation (CRAG).md",
     "📎 Attachments/Pasted image 20250819145833.png",
     "📎 Attachments/Pasted image 20250819142613.png",
-    "Цели (π,α).md",
-    "Brand Impact.md",
     "📎 Attachments/Brand Impact Competitive landscape.pdf",
-    "Ключевые слова и идеи для проекта.md",
     "🔬 Arxiv/HiVA. Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution.md",
     "🔬 Arxiv/LLM Collaboration With Multi-Agent Reinforcement Learning.md",
     "🔬 Arxiv/The simulation.md",
-    "Learning/Technology stack.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
     "Thoughts/Цель в LLM + Новый контекст обучения + Забывание.md",
     "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
@@ -235,7 +237,6 @@
     "🔬 Arxiv/NeedleChain. Measuring Intact Long-Context Reasoning Capability of Large Language Models.md",
     "🔬 Arxiv/Mimicking or Reasoning.md",
     "🔬 Arxiv/In-Context Reinforcement Learning via Communicative World Models.md",
-    "🔬 Arxiv/Improving LLMs Generalized Reasoning Abilities by Graph Problems.md",
     "📎 Attachments/Pasted image 20250821015457.png",
     "📎 Attachments/Pasted image 20250821010349.png",
     "Attachments",
@@ -245,7 +246,6 @@
     "Thoughts",
     "Poems",
     "🔬 Arxiv",
-    "Untitled 1",
-    "Duolingo tests"
+    "Untitled 1"
   ]
 }
