@@ -1,4 +1,4 @@
-Strengths, Weaknesses, Opportunities, 
+Strengths, Weaknesses, Opportunities, Threats
 
 ## Strengths (Internal):
 ### The idea
@@ -39,7 +39,7 @@ Strengths, Weaknesses, Opportunities,
 - World is need such a system to continue it's development because of inequality and gaps between humanity and AI. We have to adapt to this rapidly growing technology market
 - The Democracy needs such a system, because the current systems are based on the principals of power
 
-## Weaknesses (External)
+## Threats (External)
 ### Time
 - We haven't so much time, because a lot of researches will develop such system and after the establishment of the standard it will be impossible to run this project and embrace the whole market
 - We don't know which technologies will be developed in the future
