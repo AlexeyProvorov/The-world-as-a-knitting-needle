@@ -30,11 +30,10 @@ Strengths, Weaknesses, Opportunities, Threats
 - I have an opportunity to propose the project in the C>O
 - We can use my job as a platform for developing our second project that related with previous through the technology
 - It's easy to sell the growth of the project
-- 
 ### Vagueness of the technology
 - Nobody knows how to apply MAS correctly yet
 - There a lot of opportunities with establishing a new approaches and standards
-- Social media became less relevant in the new world
+- Social media became less relevant in the new world because of the destructive effects on the personality 
 ### World
 - World is need such a system to continue it's development because of inequality and gaps between humanity and AI. We have to adapt to this rapidly growing technology market
 - The Democracy needs such a system, because the current systems are based on the principals of power
