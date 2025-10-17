@@ -1,4 +1,4 @@
-Strengths, Weaknesses, Opportunities, Threats
+SWOT (Strengths, Weaknesses, Opportunities, Threats) in common 
 
 ## Strengths (Internal):
 ### The idea
@@ -44,4 +44,10 @@ Strengths, Weaknesses, Opportunities, Threats
 - We don't know which technologies will be developed in the future
 ### Big players
 - Google, Open AI, Anthropic, etc. are strongly obsessed the idea that AI will change the world and they will try to create or buy such product if it is successful. So, our growth should be as fast as possible after the launch
-- 
+### Data security
+- Nobody knows how to solve the security challenges
+
+
+
+
+SWOT (Strengths, Weaknesses, Opportunities, Threats) in education
