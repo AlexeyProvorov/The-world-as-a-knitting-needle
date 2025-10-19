@@ -7,4 +7,8 @@ Psychology teaches us that our behavior influences our beliefs.
 
 We've ascertained the truth. 
 
-In seventeen eighty five, W. H. theorized about the life cycle of stars, in which a star would exist for a limited amount of time before exploding in a dramatic event called a supernova. He also suggested that afterwards it would collapse into a ball of gas from which new stars would emerged. H. theory was confirmed with the discovery of nebulae and the recognition that st
+In seventeen eighty five, W. H. theorized about the life cycle of stars, in which a star would exist for a limited amount of time before exploding in a dramatic event called a supernova. He also suggested that afterwards it would collapse into a ball of gas from which new stars would emerged. H. theory was confirmed with the discovery of nebulae and the recognition that stars formed from within these interstellar dust clouds. 
+
+They liked swimming. 
+
+We later realized that the window had been opened whole all time.  
