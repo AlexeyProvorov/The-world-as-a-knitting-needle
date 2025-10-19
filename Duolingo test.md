@@ -15,4 +15,7 @@ We later realized that the window had been opened whole all time.
 
 The friends shared similar tastes in music.
 
-While you have been a valuable candidate, you lack the prerequisite desiderata. Your resume is something overblown, so we strongly recommend that you dial back the 
+While you have been a valuable candidate, you lack the prerequisite desiderata. Your resume is somewhat overblown, so we strongly recommend that you dial back the grandiose statement. On top of that, your references are too illustrious. 
+
+I would be willing to pay.
+
