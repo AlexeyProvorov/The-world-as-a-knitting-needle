@@ -12,3 +12,7 @@ In seventeen eighty five, W. H. theorized about the life cycle of stars, in whic
 They liked swimming. 
 
 We later realized that the window had been opened whole all time.  
+
+The friends shared similar tastes in music.
+
+While you have been a valuable candidate, you lack the prerequisite desiderata. Your resume is something overblown, so we strongly recommend that you dial back the 
