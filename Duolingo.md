@@ -106,3 +106,4 @@ In conclusion, I want to believe in yourself and prove to everyone that you don'
 
 
 11. My thoughts about the world. Practice and theories. 
+
