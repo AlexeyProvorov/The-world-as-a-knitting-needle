@@ -24,3 +24,11 @@ In my humble opinion, people often visit museums when they travel to new places 
 
 
 All money that travelers give for museums follows to the local economy and exhibition's support. Such encourage helps small historical artefacts to be in a good conditions. Economy is very simple here. Tourists from another country carry money to the museums in the country that they visit. Moreover, travelers spend their money on food, cafes, and other entertainments. 
+
+
+He briefly explained the rules before the game started.
+The comedian told an amusing story that made everyone laugh loudly.
+The new software will help optimize our workflow and improve overall efficiency. 
+The two sides need to negotiate terms before signing the final agreement. 
+
+The professor provided a summery at the end of the session. 
