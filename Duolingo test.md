@@ -35,4 +35,8 @@ The professor provided a summery at the end of the session.
 They moved into a new apartment near the train station.
 Let's meet at the shop around ten in the morning. 
 
-If you leave now, 
+If you leave now, you will arrive before the traffic gets bed.
+She is optimistic that the team will meet the upcoming deadline.
+Unless we hurry we'll miss the beginning of the lecture.
+He didn't finish his assignment on time, so he lost a few marks. 
+You can attend the workshop or you can wach the record later
