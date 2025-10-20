@@ -23,4 +23,4 @@ I would be willing to pay.
 In my humble opinion, people often visit museums when they travel to new places because of two key reasons. Firstly, people want to delve deep into the new cultural phenomenon, since for them such experience is like a journey inside an unusual history. Secondly, they want to gather more interesting memories about every place they visit. Overall, museums can provide both cultural values and personal desires to spend time funny.
 
 
-All money that travelers give for museums follows to the local economy and exhibition's support. Such encourage helps small historical artefacts to be in a good conditions. Economy is very simple here. Tourists from another country carry money to the museums in the country that they visit. 
+All money that travelers give for museums follows to the local economy and exhibition's support. Such encourage helps small historical artefacts to be in a good conditions. Economy is very simple here. Tourists from another country carry money to the museums in the country that they visit. Moreover, travelers spend their money on food, cafes, and other entertainments. 
