@@ -20,4 +20,4 @@ While you have been a valuable candidate, you lack the prerequisite desiderata. 
 I would be willing to pay.
 
 
-In my humble opinion, people often visit m
+In my humble opinion, people often visit museums when they travel to new places because of two key reasons. Firstly, people want to delve deep into the new cultural phenomenon, since for them such experience is like a journey inside an unusual history. Secondly, they want to gather more interesting memories about every place they visit. 
