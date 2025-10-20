@@ -32,3 +32,7 @@ The new software will help optimize our workflow and improve overall efficiency.
 The two sides need to negotiate terms before signing the final agreement. 
 
 The professor provided a summery at the end of the session. 
+They moved into a new apartment near the train station.
+Let's meet at the shop around ten in the morning. 
+
+If you leave now, 
