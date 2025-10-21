@@ -57,4 +57,4 @@ At this dark and mysterious photo I can see a group of people that gathered arou
 This photo shows three runners. It's very early in the morning, and the sun is still close to the horizon. The picture was taken from an interesting perspective. 
 
 
-Yes. I'm agree that business on one hundred percent responsible for the social life. Our contemporary reality shows that only buisnesses can form  
+Yes. I'm inclined agree that businesses are one hundred percent responsible for the social life. Our contemporary reality has shown that businesses can have an effect on social life or even shape it as they wish. It happens because influence of money and the power of authority. I think also that companies have to form society and that they want to see in the future. As a quote from the Spider-Man movie says 
