@@ -52,4 +52,9 @@ At this conversation I and my friend discussed a possibility to find a part-time
 
 At the image I see savanna and two rhinos. A mother and a baby rhino. It's sunny warm usual day here. 
 
-At this dark and mysterious photo I can see a group of people that gathere
+At this dark and mysterious photo I can see a group of people that gathered around a campfire. 
+
+This photo shows three runners. It's very early in the morning, and the sun is still close to the horizon. The picture was taken from an interesting perspective. 
+
+
+Yes. I'm agree that business on one hundred percent responsible for the social life. Our contemporary reality shows that only buisnesses can form  
