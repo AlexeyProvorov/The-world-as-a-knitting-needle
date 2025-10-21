@@ -46,4 +46,10 @@ We are talking about getting a part-time job.
 I want to work at the university library. 
 I think it's a good fit because it fits my schedule. 
 
+At this conversation I and my friend discussed a possibility to find a part-time job at the university library. I swore to check this option in the library and notify my friend about it. We both will be glad to work together at the front desk. 
 
+At this conversation I and my friend discussed a possibility to find a part-time job in the university library. We want to work together at the front desk. 
+
+At the image I see savanna and two rhinos. A mother and a baby rhino. It's sunny warm usual day here. 
+
+At this dark and mysterious photo I can see a group of people that gathere
