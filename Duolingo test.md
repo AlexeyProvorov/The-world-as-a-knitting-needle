@@ -41,3 +41,9 @@ Unless we hurry we'll miss the beginning of the lecture.
 He didn't finish his assignment on time, so he lost a few marks. 
 You can attend the workshop or you can watch the recording later.
 
+
+We are talking about getting a part-time job. 
+I want to work at the university library. 
+I think it's a good fit because it fits my schedule. 
+
+
