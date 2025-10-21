@@ -60,4 +60,5 @@ This photo shows three runners. It's very early in the morning, and the sun is s
 Yes. I'm inclined agree that businesses are one hundred percent responsible for the social life. Our contemporary reality has shown that businesses can have an effect on social life or even shape it as they wish. It happens because influence of money and the power of authority. I think also that companies have to form society and that they want to see in the future. As a quote from the Spider-Man movie says: "With great power comes great responsibilities". 
 
 
-I know that Google spends a lot of money on social research. For example, they participate in Kaggle competitions which often help in the fight against cancer and other diseases. There are also a lot of educational platforms like Coursera, which do a huge impact in our world. 
+I know that Google spends a lot of money on social research. For example, they participate in Kaggle competitions which often help in the fight against cancer and other diseases. There are also a lot of educational platforms, such as Coursera, which have a huge impact on our world. 
+
