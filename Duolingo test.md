@@ -70,3 +70,4 @@ She is optimistic that the team will meet the upcoming deadline.
 The university library closes earlier during the holiday season. 
 
 
+We need to optimize our processes to reduce waste and save time. 
