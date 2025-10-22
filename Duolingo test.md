@@ -71,3 +71,8 @@ The university library closes earlier during the holiday season.
 
 
 We need to optimize our processes to reduce waste and save time. 
+
+I and my friend want to boost our grades to the final exam, because in the midterm we  both got unacceptable score.  In the end, we agreed to talk with our teacher and ask how to improve our results. 
+I had a conversation with my friend about our midterm grades.
+
+This photo was taken on the seashore of a resort city. I can see there a cost where are walking a lot of people. I think all of them visited the seashore for wachining
