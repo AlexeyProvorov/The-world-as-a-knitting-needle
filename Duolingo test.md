@@ -64,3 +64,5 @@ I know that Google spends a lot of money on social research. For example, they p
 
 The lecture begins promptly at nine, so please arrive on time.
 The research findings were published in a scientific journal last week.
+Students are encouraged to submit their essays before the deadline next Friday.
+
