@@ -67,3 +67,6 @@ The research findings were published in a scientific journal last week.
 Students are encouraged to submit their essays before the deadline next Friday.
 Effective communication skills are essential for succuss in any professional field.
 She is optimistic that the team will meet the upcoming deadline.
+The university library closes earlier during the holiday season. 
+
+
