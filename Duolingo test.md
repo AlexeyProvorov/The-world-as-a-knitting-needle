@@ -62,3 +62,5 @@ Yes. I'm inclined agree that businesses are one hundred percent responsible for 
 
 I know that Google spends a lot of money on social research. For example, they participate in Kaggle competitions which often help in the fight against cancer and other diseases. There are also a lot of educational platforms, such as Coursera, which have a huge impact on our world. 
 
+The lecture begins promptly at nine, so please arrive on time.
+The research findings were published in a scientific journal last week.
