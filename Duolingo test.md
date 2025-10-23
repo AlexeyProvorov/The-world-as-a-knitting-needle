@@ -82,4 +82,5 @@ This photo was taken on the seashore of a resort city. I can see there a coast w
 Some people think that universities have to show a wide range of specialties instead of studying a narrow focused subject. I think that in our contemporary reality the quick technology growth has demonstrated that it's impossible to know very good every area. Also, our tools changes too fast and we can't use it all life. So we forced to keep a balance between it. 
 
 When a certain person have already delved into a specific area, there are a lot of limitations that can't afford him to go ahead. So, a person has to read side-area books or learn something that not strongly related with his specialty.
- 
+
+At this picture, I see a couple on the bench that had an argument and now they are sitting upset. Behind them a huge green park  with a lot of trees. On the top right corner there are group of people near to a whitish church. The couple has quarreled and everybody don't look at each other. 
