@@ -129,3 +129,7 @@ The cabinet at the end of the highway is always full of strange things. You can 
 Contrary to our expectations. the team were quite evenly matched.   
 
 Psychology teaches us that our behavior influences our beliefs. 
+
+When Remma hosts people at her home, she bends over backwards to ensure that they are taken care of. In her view, the comfort and relaxation of her guests is of the utmost importance. She emphasizes their desires and would noticeably have to provide them with everything. While it is lovely to be spoiled in this way, it's also a little bit overwhelming. 
+
+We've ascertained the truth.  
