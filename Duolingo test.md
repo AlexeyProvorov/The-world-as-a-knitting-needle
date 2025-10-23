@@ -76,3 +76,10 @@ I and my friend want to boost our grades to the final exam, because in the midte
 I had a conversation with my friend about our midterm grades.
 
 This photo was taken on the seashore of a resort city. I can see there a coast where are walking a lot of people. I think all of them visited the seashore to watch a beautiful sunset. And now night is coming, so people are going to leave the place. Some of them looking for seashells. 
+
+
+
+Some people think that universities have to show a wide range of specialties instead of studying a narrow focused subject. I think that in our contemporary reality the quick technology growth has demonstrated that it's impossible to know very good every area. Also, our tools changes too fast and we can't use it all life. So we forced to keep a balance between it. 
+
+When a certain person have already delved into a specific area, there are a lot of limitations that can't afford him to go ahead. So, a person has to read side-area books or learn something that not strongly related with his specialty.
+ 
