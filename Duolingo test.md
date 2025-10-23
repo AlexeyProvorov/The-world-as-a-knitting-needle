@@ -96,7 +96,7 @@ I feel loke I understood social issues better because of what I've read. Music a
 
 Advertising has a big influence on what people decide to buy. It often shows products in an exciting or attractive way, which makes people want to try them. Ads can also make a brand seem popular or trustworthy. Sometimes, people don't even realize an ad  is influencing them - it just sticks in their mind after seeing it several times. That's why companies spend so much money on advertising. 
 
-There are so many tyles of art. People enjoy paintings, sculptures, photography, and drawings. Some lile traditional art, like oil painting, while others enjoy modern or digital art. Music, dance, and theater are also forms of art that man
+There are so many tyles of art. People enjoy paintings, sculptures, photography, and drawings. Some like traditional art, like oil painting, while others enjoy modern or digital art. Music, dance, and theater are also forms of art that many people love. It really depends on personal taste - some prefer quiet art in a museum, while others like street art or live performances. 
 
 
 
