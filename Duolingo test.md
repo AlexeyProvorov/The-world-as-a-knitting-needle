@@ -94,7 +94,9 @@ Music is also powerful. Protest songs, for instance, have shaped public opinion 
 On a personal level, literature has greatly impacted me. Reading books from different cultures has expanded my perspective and made me more empathetic. 
 I feel loke I understood social issues better because of what I've read. Music also plays a big role in my life. Certain songs have helped me though difficult times by giving me comfort and motivation. Overall, art has shaped how I see the world and what I value. 
 
-Advertising has a big influence on what people decide to buy. It often shows products in an exciting or attractive way, which makes people want to try them. Ads can also make a brand seem popular or trustworthy. Sometimes, people don't even realize an ad  is influencing them - it just sticks in their mind after seeing it several times. That's why companies spend so much money on advertising.
+Advertising has a big influence on what people decide to buy. It often shows products in an exciting or attractive way, which makes people want to try them. Ads can also make a brand seem popular or trustworthy. Sometimes, people don't even realize an ad  is influencing them - it just sticks in their mind after seeing it several times. That's why companies spend so much money on advertising. 
+
+There are so many tyles of art. People enjoy paintings, sculptures, photography, and drawings. Some lile traditional art, like oil painting, while others enjoy modern or digital art. Music, dance, and theater are also forms of art that man
 
 
 
