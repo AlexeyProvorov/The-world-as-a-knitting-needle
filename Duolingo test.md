@@ -83,4 +83,6 @@ Some people think that universities have to show a wide range of specialties ins
 
 When a certain person have already delved into a specific area, there are a lot of limitations that can't afford him to go ahead. So, a person has to read side-area books or learn something that not strongly related with his specialty.
 
-At this picture, I see a couple on the bench that had an argument and now they are sitting upset. Behind them a huge green park  with a lot of trees. On the top right corner there are group of people near to a whitish church. The couple has quarreled and everybody don't look at each other. 
+At this picture, I see a couple sitting on a bench after having an argument. Now they both look upset. Behind them, a huge green park  with a lot of trees. In the top right corner there is a group of people near a whitish church. The couple has quarreled and they looks in different directions.
+
+This image shows a man and a woman sitting next to each other on a bench in a park. They looks upset after having an argument. May be after they quarrel they relaitionthips 
