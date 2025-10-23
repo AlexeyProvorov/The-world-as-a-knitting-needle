@@ -98,11 +98,14 @@ Advertising has a big influence on what people decide to buy. It often shows pro
 
 There are so many tyles of art. People enjoy paintings, sculptures, photography, and drawings. Some like traditional art, like oil painting, while others enjoy modern or digital art. Music, dance, and theater are also forms of art that many people love. It really depends on personal taste - some prefer quiet art in a museum, while others like street art or live performances. 
 
-My backyard floods every time we have a heavy rein. 
+My backyard floods every time we have a heavy rain. 
 
+I think we should get some of that locally produced wine for the party.
 
+The refinery process crude petroleum into various usable products such as gasoline and diesel 
 
+One cold night, the hot tea made me so drowsy that I could barely keep my eyes open. 
 
-
+The final design was a refined version of the original concept. 
 
 
