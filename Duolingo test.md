@@ -108,4 +108,6 @@ One cold night, the hot tea made me so drowsy that I could barely keep my eyes o
 
 The final design was a refined version of the original concept. 
 
+The flutter of the hummingbird was a delightful sight from his window.
 
+The validity of the research was in question due to the small sample size of participants. 
