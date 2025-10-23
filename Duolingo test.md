@@ -124,4 +124,8 @@ They first day at work was successful.
 
 I felt very sorry that I had put them through so much trouble. 
 
-The cabinet at the end of the highway i
+The cabinet at the end of the highway is always full of strange things. You can find old medicine, strange lotions, and old soaps, and shampoos.  I don't think anyone has cleared it out in years. 
+
+Contrary to our expectations. the team were quite evenly matched.   
+
+Psychology teaches us that our behavior influences our beliefs. 
