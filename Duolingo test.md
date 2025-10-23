@@ -85,4 +85,5 @@ When a certain person have already delved into a specific area, there are a lot 
 
 At this picture, I see a couple sitting on a bench after having an argument. Now they both look upset. Behind them, a huge green park  with a lot of trees. In the top right corner there is a group of people near a whitish church. The couple has quarreled and they looks in different directions.
 
-This image shows a man and a woman sitting next to each other on a bench in a park. They looks upset after having an argument. May be after they quarrel they relaitionthips 
+This image shows a man and a woman sitting next to each other on a bench in a park. They looks upset after having an argument. May be after the quarrel they relationships is broken. In the background, in the top right-hand corner, there is a tall whitish building that resembles a Christian church. A group of people appears to be waiting outside the building. 
+In front of it there is a narrow path leading to another building on the left side, which is currently under construction. Shere
