@@ -114,4 +114,14 @@ The validity of the research was in question due to the small sample size of par
 
 Besides lending books, libraries offer various other services. 
 
-The biology department at my school is very difficult. They require all their students to take multiple
+The biology department at my school is very difficult. They require all their students to take multiple courses in the sciences, and I hear the gradings is strict.  
+
+You are a school teacher, aren't you? 
+
+Nutrients carried by floods fertilize the soil, providing essential elements for plants to grow.
+
+They first day at work was successful. 
+
+I felt very sorry that I had put them through so much trouble. 
+
+The cabinet at the end of the highway i
