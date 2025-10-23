@@ -111,3 +111,7 @@ The final design was a refined version of the original concept.
 The flutter of the hummingbird was a delightful sight from his window.
 
 The validity of the research was in question due to the small sample size of participants. 
+
+Besides lending books, libraries offer various other services. 
+
+The biology department at my school is very difficult. They require all their students to take multiple
