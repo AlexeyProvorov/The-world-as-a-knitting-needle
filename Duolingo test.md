@@ -89,4 +89,16 @@ This image shows a man and a woman sitting next to each other on a bench in a pa
 In front of it there is a narrow path leading to another building on the left side, which is currently under construction. There is also a huge  park in front of the white building, featuring several trees and a grassy area covered with autumn leaves. In the foreground, the two young adults are sitting on a brown bench. Both appear irritated and are not speaking or even looking to each other.  The man is holding his forehead with both hands and staring down at the pavement, while the woman has her head resting on her right hand and is looking away in the opposite direction. They tense body language suggests they may have just had an argument or even broken up. 
 
 
-Literature, music, and art have a huge influence on how people think and feel. Literature, for example, often challenges the way we see the world and can push for social change. Many books have highlighted important issues like racism or gender inequality, encouraging people to think dif
+Literature, music, and art have a huge influence on how people think and feel. Literature, for example, often challenges the way we see the world and can push for social change. Many books have highlighted important issues like racism or gender inequality, encouraging people to think differently. 
+Music is also powerful. Protest songs, for instance, have shaped public opinion in a new light. Art, whether it's painting, sculpture, or performance. can spark important conversations and raise awareness about key social issues. 
+On a personal level, literature has greatly impacted me. Reading books from different cultures has expanded my perspective and made me more empathetic. 
+
+
+
+
+
+
+
+
+
+
