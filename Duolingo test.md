@@ -92,9 +92,9 @@ In front of it there is a narrow path leading to another building on the left si
 Literature, music, and art have a huge influence on how people think and feel. Literature, for example, often challenges the way we see the world and can push for social change. Many books have highlighted important issues like racism or gender inequality, encouraging people to think differently. 
 Music is also powerful. Protest songs, for instance, have shaped public opinion in a new light. Art, whether it's painting, sculpture, or performance. can spark important conversations and raise awareness about key social issues. 
 On a personal level, literature has greatly impacted me. Reading books from different cultures has expanded my perspective and made me more empathetic. 
+I feel loke I understood social issues better because of what I've read. Music also plays a big role in my life. Certain songs have helped me though difficult times by giving me comfort and motivation. Overall, art has shaped how I see the world and what I value. 
 
-
-
+Advertising has a big influence on what people decide to buy. It often shows products in an exciting or attractive way, which makes people want to try them. Ads can also make a brand seem popular or trustworthy. Sometimes, people don't even realize an ad  is influencing them - it just sticks in their mind after seeing it several times. That's why companies spend so much money on advertising.
 
 
 
