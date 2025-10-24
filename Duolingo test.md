@@ -133,3 +133,7 @@ Psychology teaches us that our behavior influences our beliefs.
 When Remma hosts people at her home, she bends over backwards to ensure that they are taken care of. In her view, the comfort and relaxation of her guests is of the utmost importance. She emphasizes their desires and would noticeably have to provide them with everything. While it is lovely to be spoiled in this way, it's also a little bit overwhelming. 
 
 We've ascertained the truth.  
+
+I had a conversation with my friend, who is also a student. We were assignment for helping with international classes as a TA. We both felt overwhelmed with the work, so, at the end of the discussion, we had a brainstorm and agreed to support each other during the whole period by sharing grades and information. 
+
+In the image I see a young girl in a red bed. On the left side of picture there is a toy in white t-short and white pa 
