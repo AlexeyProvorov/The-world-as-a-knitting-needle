@@ -138,4 +138,27 @@ I had a conversation with my friend, who is also a student. We were assignment f
 
 In the image I see a young girl in a red or pink bed. On the left side of picture there is a toy in white t-short and white pants. The doll is to her right. A girl looks truly happy and comfortable, she is laughing. Her face is a veritable angel's face. In the background there is a green wood wall. 
 
-My favorite celebration is my and my wife's birthday. We both have our birthdays in August, 
+My favorite celebration is my and my wife's birthday. We both have our birthdays in August, so we always plan our schedule very carefully for this month. I have already taken a vacation for thirty days more than five times. Usually we go hiking in the mountains for couple of weeks and enjoy the pure nature. This is really exciting time for both us, because we can forget about all routine problems and dive deep in our own adventure.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
