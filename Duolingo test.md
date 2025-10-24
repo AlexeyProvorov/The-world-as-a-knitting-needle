@@ -136,4 +136,6 @@ We've ascertained the truth.
 
 I had a conversation with my friend, who is also a student. We were assignment for helping with international classes as a TA. We both felt overwhelmed with the work, so, at the end of the discussion, we had a brainstorm and agreed to support each other during the whole period by sharing grades and information. 
 
-In the image I see a young girl in a red bed. On the left side of picture there is a toy in white t-short and white pa 
+In the image I see a young girl in a red or pink bed. On the left side of picture there is a toy in white t-short and white pants. The doll is to her right. A girl looks truly happy and comfortable, she is laughing. Her face is a veritable angel's face. In the background there is a green wood wall. 
+
+My favorite celebration is my and my wife's birthday. We both have our birthdays in August, 
