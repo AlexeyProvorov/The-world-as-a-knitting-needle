@@ -481,5 +481,3 @@ This paper introduces **DreamCUB**, a framework that combines model-based reinfo
 **Main conclusion:**  
 DreamCUB represents a significant step toward emotionally intelligent dialogue agents. By enabling systems to imagine future dialogue trajectories and reason about users’ emotional dynamics, it balances response quality with empathy and robustness. While limited to a subset of belief features (emotion, sentiment, intention), this approach opens pathways toward more human-centric and generalist AI assistants.  
 </details>
-
-
