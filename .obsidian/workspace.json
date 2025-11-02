@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWOT.md",
+                "file": "Duolingo test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWOT"
+              "title": "Duolingo test"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "d3e80caea680a9f6",
   "lastOpenFiles": [
+    "SWOT.md",
     "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
     "Untitled 1.base",
     "Untitled.base",
@@ -180,7 +181,6 @@
     "multi-agent-research-hub.md",
     "Duolingo test.md",
     "Duolingo.md",
-    "SWOT.md",
     "MAS project/Ключевые слова и идеи для проекта.md",
     "Key of my projects.md",
     "Brand Impact.md",

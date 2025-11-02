@@ -145,8 +145,8 @@ My favorite celebration is my and my wife's birthday. We both have our birthdays
 I believe that the school memories have a huge influence to our whole life. However, my point of view is based on unusual perspective of this effect. Some time our negative or positive experience can get effect in a curve way, but not like we used to think. For example, my school was terrible by my opinion. This is a pure hotbed of bulling. Therefore, instead of accept a weak fate, I made my life strong and achieved many personal aims, and my very first step, first decision was to leave the school and go to another city for graduating a university. Overall, I agree that school has a huge influence in our life, because I got a big effect of the school, but my memories rather bed then good.   
 And I had to weigh the pros and cons. 
 
-
-
+Every action has a consequence
+The meeting was brief 
 
 
 
