@@ -150,7 +150,9 @@ The meeting was brief
 
 During my leisure time, I enjoy hiking in the mountains and photographing wildlife. 
 
-Many traditional tools have become obsolete due to advancements in technology. Advancements.
+Many traditional tools have become obsolete due to advancements in technology. Advancements. 
+
+He was skeptical of the new policy's effectiveness, citing lack of evidence.  
 
 
 
