@@ -154,7 +154,7 @@ Many traditional tools have become obsolete due to advancements in technology. A
 
 He was skeptical of the new policy's effectiveness, citing lack of evidence.  The new framework for data protection is very strict. The lesson is designed to reinforce the concepts learned. Despite his wealth, he lives a modest lifestyle. Companies need to innovate to stay competitive. The legal framework of the country provides a basis for all regulations. The hotel can accommodate up to 500 guests in it's spacious. The chef used a special blend of herbs and spices to create his dish. They made a deliberate decision to invest more in renewable energy resources. Don't undermine her achievements. They will implement the new policy next week. He was cautious while crossing the busy street. More efficient. 
 
-His extensive knowledge of history made him a popular guest at the university. Traveling to different countries can broaden your perspective. She is a reliable employee as she always completing her tasks on time. This discover is significant because it could lead to breakthroughs in cancer treatment. After hours of discussion they reached a compromise that satisfied both parties. 
+His extensive knowledge of history made him a popular guest at the university. Traveling to different countries can broaden your perspective. She is a reliable employee as she always completing her tasks on time. This discover is significant because it could lead to breakthroughs in cancer treatment. After hours of discussion they reached a compromise that satisfied both parties. It's challenging to quantify the exact impact of the new policy on the community. Her sophisticated taste in art. We need to plan our budget carefully. 
 
 
 
