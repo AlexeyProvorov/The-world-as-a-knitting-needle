@@ -152,7 +152,7 @@ During my leisure time, I enjoy hiking in the mountains and photographing wildli
 
 Many traditional tools have become obsolete due to advancements in technology. Advancements. 
 
-He was skeptical of the new policy's effectiveness, citing lack of evidence.  
+He was skeptical of the new policy's effectiveness, citing lack of evidence.  The new framework for data protection is very strict. The lesson is designed to reinforce the concepts learned. 
 
 
 
