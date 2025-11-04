@@ -156,13 +156,9 @@ He was skeptical of the new policy's effectiveness, citing lack of evidence.  Th
 
 His extensive knowledge of history made him a popular guest at the university. Traveling to different countries can broaden your perspective. She is a reliable employee as she always completing her tasks on time. This discover is significant because it could lead to breakthroughs in cancer treatment. After hours of discussion they reached a compromise that satisfied both parties. It's challenging to quantify the exact impact of the new policy on the community. Her sophisticated taste in art. We need to plan our budget carefully. 
 
+Earthquakes are a natural occurrence and they happen all over the world. Although earthquakes may seem to happen randomly, it's important to understand that there are certain factors that can increase the likelihood of an earthquake happening. An earthquake occurs when two parts of Earth's crust shift relative to each other. 
 
-
-
-
-
-
-
+help, promotion 
 
 
 
