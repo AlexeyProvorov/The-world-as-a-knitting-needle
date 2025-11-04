@@ -163,6 +163,8 @@ He started his presentation right on time.
 Scientists are getting close to answering this question. 
 Economic development needs to be supported by the government. 
 Surprisingly, the elderly tend to be happier than younger people. 
-The final ond one project
-
-
+The final year will consist of four taught courses and one project. 
+Some people are motivated by competition while others prefer to collaborate. 
+Although I have not taken a computer programming course, I can write code very well. 
+The more time parents can spend with their children, the fewer problems they may face in adulthood. 
+Regular exercises maitaining good health chronic dese 
