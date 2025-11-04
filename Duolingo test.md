@@ -158,7 +158,7 @@ His extensive knowledge of history made him a popular guest at the university. T
 
 Earthquakes are a natural occurrence and they happen all over the world. Although earthquakes may seem to happen randomly, it's important to understand that there are certain factors that can increase the likelihood of an earthquake happening. An earthquake occurs when two parts of Earth's crust shift relative to each other. 
 
-help, promotion 
+help, promoting, reducing, can, concentration and health also allowing understand emotions patterns fluency friends language knowledges conversations apply vocabulary learned pieces distribute could equallu
 
 
 
