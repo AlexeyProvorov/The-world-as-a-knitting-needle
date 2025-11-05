@@ -178,4 +178,11 @@ This is a photo of a hitchhiker in the forest road, who is trying to catch a car
 Eerily quiet. 
 The photo shows a man hitchhiking in a forest. He hold his thumb up. 
 This photo shows a person who is standing in a forest and hitchhiking. 
-This photo shows a person who is standing in the forest and hitchhiking. This is an empty place and no one car haven't appeared yet. 
+This photo shows a person who is standing in the forest and hitchhiking. This is an empty place and no cars have appeared yet. 
+
+This photo shows a singer on the scene who is singing a song. It's very vibrant vibe and good atmosphere. 
+In this photograph, a women is sitting and singing in front of a microphone.  Behind her hangs a large black cloth. 
+In this photograph, a women is sitting and reading a poem. In the foreground there is a kindle. 
+In this photography, a women is sitting and singing a song. In the foreground this is a candle. It's very vibrant atmosphere.  
+
+This pi
