@@ -174,4 +174,8 @@ I had a conversation with my professor. I am a student in the university and I'm
 I had a conversation with my professor about the law grades I got in the English writing test. My professor advised me to use the helpful grammar and writing resources on the university's website. Academic essays. I agreed with my professor and said that I'd begun using these online resources right away. 
 This is a picture of, This picture shows, this image depicts, In this photograph there is a teacher teachings a class. He is standing in front of an interactive screen and gesturing politely and smooth. His hands are open and teacher shows that he respects the listeners. Children are sitting in the foreground and attentively listening to him. All of them keep silence. There are several plots and diagrams on the screen. A teacher uses a Mac OS usually. We can suggest it by the laptop on the brown teacher's table. Behind an interactive screen there is a white wall. Additional, there is a whiteboard to the left of the screen and directly behind a teacher. There is a large interactive screen behind the teacher that is likely been used for an educational game.  
 
-This is a photo of a hitchhiker in the forest road, who is trying to catch a car. However, the highway looks very abandoned and em. 
+This is a photo of a hitchhiker in the forest road, who is trying to catch a car. However, the highway looks very abandoned and empty. Yellow trees grows around this place. It's autumn.  
+Eerily quiet. 
+The photo shows a man hitchhiking in a forest. He hold his thumb up. 
+This photo shows a person who is standing in a forest and hitchhiking. 
+This photo shows a person who is standing in the forest and hitchhiking. This is an empty place and no one car haven't appeared yet. 
