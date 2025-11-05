@@ -170,3 +170,4 @@ The more time parents can spend with their children, the fewer problems they may
 Regular exercises and a balance died are essential for maintaining  good health and preventing various chronic diseases. 
 Implementing new technology in education improves learning but requires significant investment and teacher training,  
 
+I had a conversation with my professor. I am a student in the university and i'm studying urban studies. I haven't finished my degree yet and it's issue for me if I wanna continue my education or go to the job. 
