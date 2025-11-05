@@ -185,4 +185,12 @@ In this photograph, a women is sitting and singing in front of a microphone.  Be
 In this photograph, a women is sitting and reading a poem. In the foreground there is a kindle. 
 In this photography, a women is sitting and singing a song. In the foreground this is a candle. It's very vibrant atmosphere.  
 
-This pi
+This picture shows a girl who is sitting and singing a song. In the foreground is a candle.  It's very vivid and bright atmosphere here. 
+
+In this photograph, a woman is sitting in front of a microphone. She is singing a song or reading a poem. In the foreground there is a candle. 
+
+This photo shows a woman who is drawing a picture of a beautiful landscape. It's amazing and brilliant. 
+On this photography displayed a storm in the midst of a small town. A lot of lightings here everywhere. 
+
+This photo shows a woman who is sitting in the beauty center. She looks pretty good and attractive. 
+This photo shows a young woman who is having makeup applied to her face. She appears to be laying 
