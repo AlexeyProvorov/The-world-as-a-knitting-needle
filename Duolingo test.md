@@ -171,4 +171,5 @@ Regular exercises and a balance died are essential for maintaining  good health 
 Implementing new technology in education improves learning but requires significant investment and teacher training,  
 
 I had a conversation with my professor. I am a student in the university and I'm studying urban studies. I haven't finished my degree yet and it's issue for me if I wanna continue my education or go to the job. The professor advised me to work couple of years and decide whether a degree is worth it. 
-I had a conversation with my professor about the law grades I got in the English writing test. My professor suggested that I use Academic essays. I agreed with my professor and said that I'd begun using these online resources right away. 
+I had a conversation with my professor about the law grades I got in the English writing test. My professor advised me to use the helpful grammar and writing resources on the university's website. Academic essays. I agreed with my professor and said that I'd begun using these online resources right away. 
+This is a picture of, This picture shows, this image depicts, In this photograph there is a teacher teachings a class. He is standing in front of an interactive screen and gesturing politely and smooth. His hands are open and teacher shows that he respects the listeners. Children are sitting in the 
