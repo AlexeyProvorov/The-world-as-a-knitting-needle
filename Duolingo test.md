@@ -193,4 +193,8 @@ This photo shows a woman who is drawing a picture of a beautiful landscape. It's
 On this photography displayed a storm in the midst of a small town. A lot of lightings here everywhere. 
 
 This photo shows a woman who is sitting in the beauty center. She looks pretty good and attractive. 
-This photo shows a young woman who is having makeup applied to her face. She appears to be laying 
+This photo shows a young woman who is having makeup applied to her face. She appears to be laying down in a black leather chair. The client's white robe suggests that she is at a professional makeup studio. 
+
+This photo shows a group of people on the beautiful island. They are jumping in water. In the background there is a huge mountain covered by green forest.
+
+At this photo I can see an elderly women who is standing in front of the sink. She is washing vegetables. 
