@@ -207,3 +207,5 @@ A strong example of this can be seen in ...
 Stylish and modern, Behind the counter, There are several shelves that have been hung on the wall. 
 a stanning photograph of 
 stylish
+This is an image of a young girl riding a horse down carefully. 
+A book that I've read recently, which really inspired me, was called "Tribal leadersheep" 
