@@ -208,4 +208,5 @@ Stylish and modern, Behind the counter, There are several shelves that have been
 a stanning photograph of 
 stylish
 This is an image of a young girl riding a horse down carefully. 
-A book that I've read recently, which really inspired me, was called "Tribal leadersheep" 
+A book that I've read recently, which really inspired me, was called "Tribal leadership". This book is a structured collection of advises, both hilarious and thought-provoking. 
+I Even though I hadn't heard about it. 
