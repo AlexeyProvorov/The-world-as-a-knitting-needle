@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "61fdeff63d15ba15",
@@ -174,8 +173,9 @@
   },
   "active": "d3e80caea680a9f6",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Duolingo.md",
     "Duolingo test.md",
+    "Untitled 1.md",
     "Untitled.md",
     "SWOT.md",
     "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
@@ -183,7 +183,6 @@
     "Untitled.base",
     "Nexford research/Program overview step by step.md",
     "multi-agent-research-hub.md",
-    "Duolingo.md",
     "MAS project/Ключевые слова и идеи для проекта.md",
     "Key of my projects.md",
     "Brand Impact.md",
