@@ -216,5 +216,5 @@ A good example with using tenses.
 Turning to the next question, the first time I **heard** of this book **was** on a podcast where **two famous people were talking** about the most influential **books that they've ever read**. Even though I hadn't heard of the author before, the way they walked about him was amazing. **Therefore, as soon as I finished listening to**  the podcast, I went directly to the bookstore to buy a book.  
 ___
 
-Musicians 
+Musicians Substantiate, It's important to differentiate. 
 
