@@ -223,3 +223,4 @@ Although it is not completely clear. campfire, laughing, because, because, becau
 weather, weather, weather, weather, In conclusion, synthesize, synthesize, synthesize, infer. 
 In the picture I can see a young women, who is probably in her late twenties, at the vinyl record store. 
 consciousness, consciousness, conscience, consciousness, 
+thick vegetation 
