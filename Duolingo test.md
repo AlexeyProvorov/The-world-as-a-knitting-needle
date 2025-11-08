@@ -221,3 +221,4 @@ Musicians Substantiate, It's important to differentiate.
 Discrepancies. hailed, 
 Although it is not completely clear. campfire, laughing, because, because, because. 
 weather, weather, weather, weather, In conclusion, synthesize, synthesize, synthesize, infer. 
+In the picture I can see a young women, who is probably in her late twenties, at the vinyl record store. 
