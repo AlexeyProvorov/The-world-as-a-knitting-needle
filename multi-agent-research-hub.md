@@ -434,8 +434,27 @@ This paper introduces Galaxy, a cognition-centered IPA framework by:
 Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior, robust privacy management, and continuous self-improvement, demonstrating the potential of co-constructive cognitive architectures in LLM agents.
 </details>
 
+# Issues
 
-# Context Engineering
+
+https://arxiv.org/pdf/2511.02687
+<details>
+  <summary>The Collaboration Gap – November 2025</summary>
+
+**Tags:** Multi-Agent Systems, Large Language Models, Collaboration, Coordination, Relay Inference, AI Communication
+
+This paper introduces and empirically defines the **Collaboration Gap** — the performance drop that occurs when large language models (LLMs) must cooperate with other agents, including identical copies of themselves.  
+Through a new **Collaborative Maze Benchmark**, the authors evaluate 32 modern models (OpenAI, Google, Anthropic, xAI, Cohere, etc.) in scenarios requiring partial information sharing and joint problem-solving.
+
+Key findings include:
+- **Severe collaboration degradation:** Most models lose 30–70% accuracy when moving from solo to paired performance, even with identical partners.  
+- **Heterogeneous asymmetry:** Stronger models tend to mirror weaker partners’ reasoning styles, leading to performance loss unless dialogue order is controlled.  
+- **Relay Inference breakthrough:** Allowing a strong model to “prime” the conversation (set structure and strategy) dramatically restores joint accuracy, suggesting that conversation framing is a core factor in machine cooperation.  
+
+**Main conclusion:**  
+Collaborative intelligence is a distinct dimension of capability, not an emergent property of solo intelligence.  
+Future AI systems must be trained and architected for **mutual understanding, role negotiation, and communication grounding**—skills that cannot be patched post hoc. The study establishes a new foundation for evaluating and improving multi-agent AI ecosystems.
+</details>
 
 
 # Others
@@ -481,3 +500,4 @@ This paper introduces **DreamCUB**, a framework that combines model-based reinfo
 **Main conclusion:**  
 DreamCUB represents a significant step toward emotionally intelligent dialogue agents. By enabling systems to imagine future dialogue trajectories and reason about users’ emotional dynamics, it balances response quality with empathy and robustness. While limited to a subset of belief features (emotion, sentiment, intention), this approach opens pathways toward more human-centric and generalist AI assistants.  
 </details>
+
