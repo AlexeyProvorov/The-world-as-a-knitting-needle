@@ -224,3 +224,4 @@ weather, weather, weather, weather, In conclusion, synthesize, synthesize, synth
 In the picture I can see a young women, who is probably in her late twenties, at the vinyl record store. 
 consciousness, consciousness, conscience, consciousness, 
 thick vegetation 
+reflection, conscience, conscience consciousness consciousness consciousness consciousness assist, transformed, improve 
