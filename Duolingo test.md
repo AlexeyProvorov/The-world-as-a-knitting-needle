@@ -234,3 +234,5 @@ A few years ago, I had an opportunity to try something I had never wanted to do 
 Ultimately, it was a unique experience, but I wouldn't want to do it again. 
 
 
+___
+She seems to be in a wooden garden house with open windows all around her. She is focusing hard on her work or studies, and she's leaning over the desk with a serious expression on her face. I guess she' s thinking meti
