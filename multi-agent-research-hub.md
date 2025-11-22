@@ -435,6 +435,23 @@ Galaxy outperforms state-of-the-art benchmarks by integrating proactive behavior
 </details>
 
 https://arxiv.org/pdf/2511.09030
+<details>
+  <summary>Solving a Million-Step LLM Task with Zero Errors — Nov 12, 2025</summary>
+
+**Tags:** Large Language Models, Multi-Agent Systems, Error Correction, Long-Horizon Reasoning, AI Scaling
+
+This paper introduces a new paradigm for scaling LLM-based systems through **Massively Decomposed Agentic Processes (MDAPs)**, implemented as the MAKER framework, which successfully executes a task requiring over one million LLM steps with zero errors by:
+
+- Applying **Maximal Agentic Decomposition (MAD)**, breaking complex tasks into the smallest possible micro-steps handled by specialized micro-agents to eliminate context overload and reduce per-step error rates.  
+- Introducing **First-to-ahead-by-k voting**, a statistically grounded multi-agent error-correction mechanism that scales reliability logarithmically with task length.  
+- Using **Red-flagging mechanisms** that discard malformed or overly long model outputs to reduce correlated and pathological errors, dramatically improving overall stability.  
+
+The framework is validated on the **Towers of Hanoi (20 disks)** benchmark, achieving perfect execution across **1,048,575 steps**, demonstrating that scalable reliability can be achieved through architectural design rather than increasingly powerful base models.
+
+**Main conclusion:**  
+The paper demonstrates that superhuman reliability in long-horizon tasks is achievable through extreme task decomposition and distributed error correction, suggesting that future AI scalability will depend more on system architecture and agent orchestration than on further enlarging monolithic language models.
+
+</details>
 
 # Issues
 
