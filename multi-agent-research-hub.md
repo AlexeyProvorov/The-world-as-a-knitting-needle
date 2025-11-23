@@ -1,6 +1,35 @@
 Useful thoughts and experience about the MAS developing 
 # Must have
 
+https://arxiv.org/pdf/2510.26745v1
+<details>
+  <summary>Deep Sequence Models Tend to Memorize Geometrically; It Is Unclear Why – October 30, 2025</summary>
+
+**Tags:** Deep Learning, Transformers, Parametric Memory, Representation Learning, Spectral Bias
+
+This paper argues that large sequence models (Transformers, Mamba, simple neural nets) don’t just store atomic facts as a brute-force associative table, but instead **spontaneously organize them into a global geometric structure in embedding space**. This is demonstrated on specially constructed path-finding tasks over graphs, where:
+
+- The authors contrast two kinds of parametric memory:  
+  - **Associative memory**, where each co-occurrence is stored as a local entry in a weight matrix over otherwise arbitrary token embeddings.  
+  - **Geometric memory**, where the embeddings themselves encode global graph structure, so that dot products reflect multi-hop proximity even between nodes that never co-occurred during training.  
+
+- They design an **in-weights path-star task**: the model first memorizes all edges of a large tree-like graph (tens of thousands of nodes), then must output the full path from root to a given leaf purely from its stored weights. In this setup, both Transformer and Mamba achieve near-perfect generalization to unseen leaves, even though analogous **in-context** versions of the same graph task are known to fail under next-token training.
+
+- Analyzing token-wise learning, they show that the **hardest token—the first step on the path—is learned in isolation**, without intermediate supervision or chain-of-thought signals. Under a purely associative-memory view, this requires learning an ℓ-fold composition of lookups, which should be computationally intractable to learn by gradient descent. The success of the models therefore implies that they implicitly reduce this multi-step reasoning task to a **single geometric step**.
+
+- By visualizing embeddings and cosine-distance heatmaps, they show that nodes belonging to the same path form tight clusters and that leaf/first-node pairs are especially aligned—evidence that the model has constructed a **global geometric map of the graph** rather than a local lookup table.
+
+- The authors then challenge standard explanations:  
+  - **Capacity/regularization** cannot be the main driver, because for certain graphs geometric and associative representations are shown to be **equally or almost equally succinct** in terms of bits and parameter norms.  
+  - **Supervisory pressure** also fails to explain the effect, since similar global geometries emerge even when training only on local edge prediction (no explicit path-finding supervision), and geometry appears for unseen paths as well.
+
+- To probe the origin of this geometric bias, they analyze a simpler Node2Vec-style model (1-layer, 1-hop, cross-entropy loss). They find that training dynamics naturally exhibit a **spectral bias**: embeddings converge to span the top eigenvectors (Fiedler-like vectors) of the graph Laplacian, while the effective update matrix develops those same eigenvectors in its null space. This happens **without** low-rank constraints, early stopping, or explicit multi-hop objectives, suggesting that gradient descent alone can induce **global, spectrally-organized geometries from purely local training signals**.
+
+**Main conclusion:**  
+Deep sequence models, when trained even on collections of “incompressible” atomic facts, tend to synthesize **geometric world models** in their embedding spaces rather than simple associative tables. This geometry collapses hard multi-hop reasoning into easy one-step vector computations, yet cannot be fully explained by standard notions of capacity, regularization, or supervision. Understanding and amplifying this naturally arising spectral/geometric bias could lead to models with more powerful implicit reasoning and combinatorial creativity, but also raises challenges for precise knowledge editing, unlearning, and controllable retrieval.
+</details>
+
+
 https://arxiv.org/pdf/2508.10146
 <details>
   <summary>Agentic AI Frameworks: Architectures, Protocols, and Design Challenges – August 2025</summary>
