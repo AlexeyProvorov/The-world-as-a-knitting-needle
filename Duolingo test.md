@@ -238,3 +238,5 @@ ___
 She seems to be in a wooden garden house with open windows all around her. She is focusing hard on her work or studies, and she's leaning over the desk with a serious expression on her face. I guess she' s writing down thoughtfully and meticulously all what she's reading. She is holding a pen in her left hand and as if she about to take notes. Her right hand seems ready to turn the page of the book in front of her. I can tell that she is completely absorbed in what she's doing. 
 
 His outfit looks casual but stylish at the same time. 
+
+several snowcapped peaks. 

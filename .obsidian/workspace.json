@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-agent-research-hub.md",
+                "file": "Duolingo test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "multi-agent-research-hub"
+              "title": "Duolingo test"
             }
           },
           {
@@ -216,12 +216,12 @@
   },
   "active": "f00d976b55a53c33",
   "lastOpenFiles": [
-    "🔬 Arxiv/Deep sequence models tend to memorize geometrically.md",
+    "Duolingo.md",
     "Duolingo test.md",
     "multi-agent-research-hub.md",
+    "🔬 Arxiv/Deep sequence models tend to memorize geometrically.md",
     "🔬 Arxiv/The Collaboration Gap (Davidson et al., 2025).md",
     "🔬 Arxiv/The Collapse of AI Reasoning (by Apple).md",
-    "Duolingo.md",
     "Untitled 1.md",
     "Untitled.md",
     "SWOT.md",
