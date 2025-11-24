@@ -566,3 +566,23 @@ Current large language models are not merely imperfect in high-risk psychologica
 Source: :contentReference[oaicite:0]{index=0}
 
 </details>
+
+
+https://arxiv.org/pdf/2510.20967
+<details>
+  <summary>3DReasonKnee: Advancing Grounded Reasoning in Medical Vision-Language Models – Oct 23, 2025</summary>
+
+**Tags:** Medical AI, Vision-Language Models, 3D MRI, Grounded Reasoning, Chain-of-Thought, MOAKS, Clinical AI
+
+This paper introduces the first large-scale **3D grounded reasoning dataset** for medical imaging by:
+- Proposing **3DReasonKnee**, a dataset of 494K expert-annotated quintuples combining 3D MRI volumes, diagnostic questions, 3D bounding boxes, clinician-authored chain-of-thought reasoning, and structured MOAKS severity scores.  
+- Establishing **ReasonKnee-Bench**, a benchmark to evaluate both anatomical localization (3D IoU) and diagnostic reasoning accuracy in vision-language models.  
+- Demonstrating that current state-of-the-art VLMs fail to perform reliable region-level localization and step-by-step diagnostic reasoning, revealing a critical gap between machine perception and real clinical reasoning workflows.  
+
+**Main conclusion:**  
+The work shows that modern multimodal models do not truly “think” like clinicians and that grounded 3D spatial reasoning is the main bottleneck. By providing expert-level reasoning traces and volumetric localization, 3DReasonKnee lays the foundation for next-generation medical AI that can move from surface-level pattern recognition toward trustworthy, interpretable, and clinically aligned decision-making.
+
+**Source (local PDF):** /mnt/data/2510.20967v1.pdf
+</details>
+
+
