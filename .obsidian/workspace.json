@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "a95a20a764850a30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "08645c4070ddb79a",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f00d976b55a53c33",
+  "active": "a95a20a764850a30",
   "lastOpenFiles": [
     "Duolingo test.md",
     "Duolingo.md",
