@@ -426,6 +426,24 @@ Key contributions include:
 Modern LLMs can technically *process* long contexts but cannot *understand* them when all information matters. NeedleChain exposes this gap and sets a new standard for evaluating—and improving—true long-context reasoning. The findings urge a shift from merely scaling input length to enhancing *semantic integration* within that length.
 </details>
 
+https://arxiv.org/pdf/2511.16043
+<details>
+  <summary>Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning – Nov 20, 2025</summary>
+
+**Tags:** Self-Evolving Agents, Reinforcement Learning, Tool Use, Curriculum Generation, Zero-Data Training
+
+Agent0 introduces a fully autonomous framework where two agents—**a Curriculum Agent** and **an Executor Agent**—co-evolve without any human-provided data.  
+The Curriculum Agent generates frontier tasks rewarded for **executor uncertainty**, **tool-use induction**, and **task diversity**, while the Executor Agent learns to solve them through **multi-turn tool-integrated reasoning** using a Python sandbox.  
+A novel **Ambiguity-Dynamic PPO (ADPO)** stabilizes learning by scaling advantages and relaxing clipping for ambiguous tasks, enabling emergence of new reasoning patterns.
+
+**Key contributions:**
+- A **closed self-evolution loop** that continually increases task difficulty and agent capability.  
+- **Tool-driven curricula**, where tasks progressively require more computation and structured reasoning.  
+- Significant improvements: **+18% mathematical reasoning** and **+24% general reasoning** over base models.
+
+**Main conclusion:**  
+By coupling autonomous curriculum generation with tool-augmented, ambiguity-aware reinforcement learning, Agent0 demonstrates a scalable path for LLMs to self-improve beyond the limits of their initial knowledge—pointing toward genuinely self-evolving, high-capability AI agents.
+</details>
 
 
 ## Agentic Web
