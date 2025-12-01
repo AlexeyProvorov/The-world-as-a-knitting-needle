@@ -240,3 +240,8 @@ She seems to be in a wooden garden house with open windows all around her. She i
 His outfit looks casual but stylish at the same time. 
 
 several snowcapped peaks. 
+
+I would like to talk about horse riding, which has been my hobby since i was ten years old. 
+I would like to talk about bird's watching, which has been my hobby since I was approximately seven years old. 
+
+Intelligent. crucial. look at serene blue sky. serene and peaceful. Prioritizing balance in my life ensures that I can be happy and focus better while studying. 
