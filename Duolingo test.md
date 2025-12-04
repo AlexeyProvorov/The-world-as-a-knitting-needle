@@ -251,3 +251,5 @@ He was very happy with the recommendation.
 
 I ran into a close friend yesterday. 
 When he stood up, he realized that his leg had fallen asleep.
+Renowned, renowned. 
+Psychology teaches us that our behavior influences our beliefs.  
