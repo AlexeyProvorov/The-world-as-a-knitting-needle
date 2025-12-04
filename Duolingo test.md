@@ -245,3 +245,9 @@ I would like to talk about horse riding, which has been my hobby since i was ten
 I would like to talk about bird's watching, which has been my hobby since I was approximately seven years old. 
 
 Intelligent. crucial. look at serene blue sky. serene and peaceful. Prioritizing balance in my life ensures that I can be happy and focus better while studying. 
+
+
+He was very happy with the recommendation.
+
+I ran into a close friend yesterday. 
+When he stood up, he realized that his leg had fallen asleep.
