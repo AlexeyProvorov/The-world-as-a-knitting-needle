@@ -12,3 +12,8 @@ _In this day and age, people rely heavily on technology._
 — В наши дни люди сильно полагаются на технологии.
 
 This particular photo depicts kind of a serene beach with a bird. 
+
+If I had to guess, I would say that...
+
+
+Wildlife refuge 
