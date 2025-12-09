@@ -15,5 +15,3 @@ This particular photo depicts kind of a serene beach with a bird.
 
 If I had to guess, I would say that...
 
-
-Wildlife refuge 
