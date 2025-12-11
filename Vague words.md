@@ -14,4 +14,3 @@ _In this day and age, people rely heavily on technology._
 This particular photo depicts kind of a serene beach with a bird. 
 
 If I had to guess, I would say that...
-
