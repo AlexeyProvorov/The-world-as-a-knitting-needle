@@ -749,6 +749,30 @@ DreamCUB represents a significant step toward emotionally intelligent dialogue a
 </details>
 
 ---
+## 12.3 Digital Twins & Decision Support (future-self, choice architecture)
+https://arxiv.org/pdf/2512.05397v1
+
+<details>
+
+<summary>Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice — Dec 5, 2025</summary>
+
+**Tags:** Digital Twins, Decision-Making, Future Self, Behavioral Influence, Choice Architecture, Multimodal AI
+
+This paper introduces a “future-self simulation” system where users chat with AI-generated versions of themselves (aged avatar + cloned voice) who reflect on life after choosing a given path. In a randomized study (N=192), these future-selves:
+
+- **Shifted preferences** when only one option’s future-self was shown (directional persuasion).
+
+- **Increased decision updating** when both A and B future-selves were presented (better comparative reflection).
+
+- **Expanded the choice set** by proposing an AI-generated **Option C**, which users selected far more often than in control, demonstrating that generative systems can reshape—not just resolve—A/B dilemmas.
+
+**Main conclusion:**
+
+Digital-twin future selves act as a powerful, identity-based decision scaffold: they can persuade, improve exploration via balanced framing, and meaningfully expand human choice through novel alternatives—while requiring careful safeguards against manipulation and false “prediction” framing.
+
+</details>
+
+___
 
 # 13 Hidden State / Latent Collaboration
 
