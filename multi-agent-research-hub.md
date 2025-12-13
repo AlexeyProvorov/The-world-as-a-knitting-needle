@@ -671,3 +671,21 @@ Finally, cross-model and pretrain–chat transfer analyses reveal that **H-Neuro
 **Main conclusion:**  
 Hallucinations and “trying too hard to please the user” are not diffuse properties of the whole model but are strongly concentrated in an ultra-sparse set of neurons whose activations both *predict* and *drive* over-compliant behavior, suggesting a concrete handle for future hallucination detection and targeted alignment interventions.
 </details>
+
+
+# Hidden state
+
+https://arxiv.org/pdf/2511.20639
+<details>
+  <summary>Latent Collaboration in Multi-Agent Systems – Dec 8, 2025</summary>
+
+**Tags:** Multi-Agent Systems, Latent Reasoning, Large Language Models, System-Level Intelligence, Efficiency
+
+This paper introduces **LatentMAS**, a training-free multi-agent framework where LLM agents reason and communicate entirely in the **continuous latent space**, eliminating text-based mediation by:
+- Enabling **latent thought generation**, where agents autoregressively produce last-layer hidden states instead of tokens, achieving far higher expressive capacity than text-based chain-of-thought.  
+- Introducing **latent working memory transfer** via full layer-wise KV-cache sharing, allowing agents to exchange internal representations with **lossless information preservation**.  
+- Providing **theoretical guarantees** that latent collaboration strictly dominates text-based MAS in expressiveness and computational complexity, while empirical results show up to **+14.6% accuracy**, **70–85% fewer tokens**, and **4–7× faster inference** across reasoning and code benchmarks.
+
+**Main conclusion:**  
+LatentMAS demonstrates that natural language is a bottleneck—not a necessity—for agent collaboration. By shifting multi-agent reasoning from linguistic exchange to shared latent cognition, the work establishes a new paradigm for building scalable, efficient, and more powerful agentic systems beyond the limits of text-based communication.
+</details>
