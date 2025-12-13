@@ -133,7 +133,7 @@ Aime significantly outperforms conventional multi‑agent systems—achieving ne
 </details>
 
 
-## RAG, Graphs, Fine-tuning, 
+# RAG, Graphs, Fine-tuning, Reasoning, Prompt engineering
 
 
 https://arxiv.org/pdf/2401.15884 + [Сode on Google Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/tutorials/Corrective-RAG-with_Langgraph/CRAG_with_Langgraph.ipynb#scrollTo=gUlaOeBxpIxD)
@@ -334,6 +334,38 @@ EGO-Prompt achieves **+7–12% F1 improvement** over state-of-the-art prompt opt
 
 **Main conclusion:**  
 By enabling prompts and structured causal knowledge to co-evolve through language-based gradients, EGO-Prompt represents a shift from static prompt engineering toward **self-adaptive, causally grounded reasoning systems**, laying foundations for future AI systems that can refine not only their answers, but the structure of their own thinking. :contentReference[oaicite:4]{index=4}
+</details>
+
+
+https://arxiv.org/pdf/2510.19842
+<details>
+  <summary>DAG-Math: Graph-Guided Mathematical Reasoning in Large Language Models – 2025</summary>
+
+**Tags:** Large Language Models, Mathematical Reasoning, Chain-of-Thought, DAG, Evaluation Metrics, Interpretability
+
+This paper models mathematical reasoning in LLMs as a **stochastic traversal over a task-specific Directed Acyclic Graph (DAG)** of logical steps by:
+- Representing Chain-of-Thought as paths in a DAG, explicitly separating exploratory search from logically valid inference.
+- Introducing **logical closeness** and **Perfect Reasoning Rate (PRR)** to evaluate whether an entire reasoning trace is structurally coherent and correct.
+- Proposing **DAG-MATH**, a structured reasoning format that enables automatic graph construction and fine-grained analysis of reasoning failures.
+
+**Main conclusion:**  
+High answer accuracy in modern LLMs is often driven by search and branching, while **fully coherent, logically closed reasoning remains rare**. DAG-based evaluation exposes this gap and provides a principled framework for measuring and improving true mathematical reasoning.
+</details>
+
+
+https://arxiv.org/pdf/2511.21734v1
+<details>
+  <summary>Asking LLMs to Verify First Is Almost Free Lunch – Nov 21, 2025</summary>
+
+**Tags:** Large Language Models, Reasoning, Chain-of-Thought, Verification, Test-Time Scaling, Critical Thinking
+
+This paper introduces **Verification-First (VF)**, a simple yet powerful prompting strategy that improves LLM reasoning by:
+- Asking the model to **verify a candidate answer (even random or incorrect) before solving**, which triggers a reverse reasoning process that is cognitively easier and complementary to forward Chain-of-Thought.
+- Exploiting the model’s latent **critical-thinking and error-detection abilities**, reducing egocentric bias and logical hallucinations without additional training or task-specific knowledge.
+- Extending VF into **Iter-VF**, a Markovian test-time scaling method that iteratively verifies and regenerates answers, outperforming self-correction and other TTS strategies under the same or lower computational budgets.
+
+**Main conclusion:**  
+Reasoning quality in LLMs is strongly influenced by *how* they are prompted to think rather than *how much* they think. By shifting models into a verification-first mode, substantial gains in accuracy can be achieved with minimal overhead, making VF a broadly applicable, low-cost alternative to traditional chain-of-thought and test-time scaling approaches—even for closed, thought-hidden models.
 </details>
 
 ## Approaches
@@ -543,6 +575,7 @@ Future AI systems must be trained and architected for **mutual understanding, ro
 
 
 # Others
+
 
 
 https://arxiv.org/pdf/2508.19227
