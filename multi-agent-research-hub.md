@@ -689,3 +689,21 @@ This paper introduces **LatentMAS**, a training-free multi-agent framework where
 **Main conclusion:**  
 LatentMAS demonstrates that natural language is a bottleneck—not a necessity—for agent collaboration. By shifting multi-agent reasoning from linguistic exchange to shared latent cognition, the work establishes a new paradigm for building scalable, efficient, and more powerful agentic systems beyond the limits of text-based communication.
 </details>
+
+
+# Reinforcement Learning
+
+https://arxiv.org/pdf/2512.13070
+<details>
+  <summary>M-GRPO: Stabilizing Self-Supervised Reinforcement Learning for LLMs with Momentum-Anchored Policy Optimization – Dec 2025</summary>
+
+**Tags:** Self-Supervised RL, GRPO, Policy Collapse, Entropy Collapse, Momentum/EMA, Majority Voting, LLM Reasoning
+
+This paper stabilizes label-free (self-rewarding) RL for LLMs by:
+- Diagnosing **policy collapse** in self-rewarding setups: performance can improve early, then degrade because the model lacks a **stable target** for its own pseudo-labels.  
+- Introducing **M-GRPO**, which adds a slowly updated **momentum (EMA) policy** to generate additional rollouts; mixing current + momentum rollouts makes **majority-vote pseudo-ground truth** less noisy and less prone to self-amplified errors.  
+- Adding an **IQR-based entropy filter** that drops abnormally low-entropy trajectories, helping prevent **entropy collapse** and preserving exploration during training.  
+
+**Main conclusion:**  
+Self-supervised RL can be made practically stable by anchoring pseudo-label formation with an EMA “teacher” policy and maintaining exploration via adaptive entropy filtering—turning a brittle, checkpoint-sensitive process into a more reliable long-run training recipe.
+</details>
