@@ -675,7 +675,7 @@ Hallucinations and “trying too hard to please the user” are not diffuse prop
 
 # Hidden state
 
-https://arxiv.org/pdf/2511.20639
+https://arxiv.org/pdf/2511.20639 ⚡⚡⚡
 <details>
   <summary>Latent Collaboration in Multi-Agent Systems – Dec 8, 2025</summary>
 
