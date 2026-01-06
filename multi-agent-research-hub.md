@@ -29,7 +29,6 @@ This paper argues that large sequence models (Transformers, Mamba, simple neural
 Deep sequence models, when trained even on collections of “incompressible” atomic facts, tend to synthesize **geometric world models** in their embedding spaces rather than simple associative tables. This geometry collapses hard multi-hop reasoning into easy one-step vector computations, yet cannot be fully explained by standard notions of capacity, regularization, or supervision. Understanding and amplifying this naturally arising spectral/geometric bias could lead to models with more powerful implicit reasoning and combinatorial creativity, but also raises challenges for precise knowledge editing, unlearning, and controllable retrieval.
 </details>
 
-
 https://arxiv.org/pdf/2508.10146
 <details>
   <summary>Agentic AI Frameworks: Architectures, Protocols, and Design Challenges – August 2025</summary>
@@ -131,7 +130,6 @@ The framework replaces rigid, precomputed workflows with a fluid, adaptive archi
 **Main conclusion:**  
 Aime significantly outperforms conventional multi‑agent systems—achieving new state‑of‑the‑art success rates of 77.6% on GAIA, 66.4% on SWE‑bench Verified, and 92.3% on WebVoyager—demonstrating superior adaptability, efficiency, and overall task success in dynamic environments :contentReference[oaicite:4]{index=4}.
 </details>
-
 
 # RAG, Graphs, Fine-tuning, Reasoning, Prompt engineering
 
@@ -376,7 +374,6 @@ https://www.anthropic.com/engineering/building-effective-agents
 https://www.anthropic.com/news/model-context-protocol\
 
 
-
 https://arxiv.org/pdf/2509.00189
 <details>
   <summary>HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution – Aug 29, 2025</summary>
@@ -399,8 +396,6 @@ Key innovations:
 **Main conclusion:**  
 HiVA demonstrates that **co-evolving agent semantics and topology is essential** for scalable, adaptive intelligence. By self-organizing into specialized, interconnected roles, HiVA systems achieve higher accuracy, efficiency, and robustness. This framework marks a step toward **self-improving, general-purpose agentic AI**, though challenges remain in conflict resolution and handling ambiguous feedback.  
 </details>
-
-
 
 ## Architectures LLM
 ### DeepSeek
@@ -432,8 +427,6 @@ This paper introduces **LiveMCP-101**, a benchmark of 101 complex real-world tas
 **Main conclusion:**  
 LiveMCP-101 demonstrates that current LLM-based agents remain far from reliable autonomous tool users. They face persistent issues with dynamic environments, robust planning, and efficient token use. The benchmark establishes a new rigorous standard and highlights clear directions for advancing reasoning, orchestration, and error recovery in the next generation of AI agents.
 </details>
-
-
 
 
 ## Test models 

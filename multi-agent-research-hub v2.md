@@ -859,7 +859,3 @@ By coupling autonomous curriculum generation with tool-augmented, ambiguity-awar
 ---
 
 # 99 Inbox (неразобранное)
-
-> Сюда кидай новые ссылки “на скорую руку”, а раз в неделю переносишь по разделам выше.
-- (пусто)
-```
