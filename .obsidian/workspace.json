@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "Метрики эф"
             }
+          },
+          {
+            "id": "fbe86288da5fc789",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6748b8a19fcb90",
+  "active": "fbe86288da5fc789",
   "lastOpenFiles": [
     "Метрики эф.md",
     "Thoughts/Цель в LLM + Новый контекст обучения + Забывание.md",
