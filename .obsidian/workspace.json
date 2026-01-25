@@ -11,10 +11,14 @@
             "id": "8e99e644f3a757cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Заметки от исследования эффективности.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Заметки от исследования эффективности"
             }
           }
         ]
@@ -169,6 +173,9 @@
   },
   "active": "8e99e644f3a757cf",
   "lastOpenFiles": [
+    "📎 Attachments/Pasted image 20260125135415.png",
+    "📎 Attachments/Pasted image 20260125135324.png",
+    "Заметки от исследования эффективности.md",
     "Метрики эф.md",
     "Thoughts/Цель в LLM + Новый контекст обучения + Забывание.md",
     "Thoughts/Современные мультиаггентные системы никуда не годятся..md",
@@ -196,8 +203,6 @@
     "🔬 Arxiv/Agentic AI Frameworks. Architectures, Protocols, and Design Challenges_ (2025).md",
     "Untitled 1.base",
     "Untitled.base",
-    "MAS project/Ключевые слова и идеи для проекта.md",
-    "MAS project/Technology stack.md",
     "MAS project",
     "📎 Attachments/Pasted image 20251014165227.png",
     "📎 Attachments/Pasted image 20251014165142.png",
@@ -211,7 +216,6 @@
     "📎 Attachments/Pasted image 20250821015457.png",
     "📎 Attachments/Pasted image 20250821010349.png",
     "Attachments",
-    "📎 Attachments/Pasted image 20250819151511.png",
     "📎 Attachments",
     "Learning",
     "Thoughts"
